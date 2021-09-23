@@ -1,0 +1,714 @@
+{"tagname": "a", "offset": [31, 89.60000610351562], "text": "Home", "id": "btn_home"}
+{"tagname": "a", "offset": [98.18333435058594, 89.60000610351562], "text": "Cart 0", "id": "btn_cart"}
+{"tagname": "button", "offset": [185.96665954589844, 96.39999389648438], "text": "", "id": "end-experiment-1"}
+{"tagname": "button", "offset": [219.96665954589844, 96.39999389648438], "text": "", "id": "end-experiment-2"}
+{"tagname": "button", "offset": [253.96665954589844, 96.39999389648438], "text": "", "id": "end-experiment-3"}
+{"tagname": "input", "offset": [363.1499938964844, 91.80000305175781], "text": "", "id": "searchInput"}
+{"tagname": "button", "offset": [597.6500244140625, 89.60000610351562], "text": "Search", "id": "btn_search"}
+{"tagname": "a", "offset": [682.25, 89.60000610351562], "text": "Checkout", "id": "btn_checkout"}
+{"tagname": "a", "offset": [55, 221.1999969482422], "text": "\n                                Fashion\n                            ", "id": "btn_category_kso_online_fashion"}
+{"tagname": "a", "offset": [55, 245.1999969482422], "text": "\n                                Home & Children\n                            ", "id": "btn_category_kso_online_homeKids"}
+{"tagname": "a", "offset": [55, 269.20001220703125], "text": "\n                                Electronics\n                            ", "id": "btn_category_kso_online_electronics"}
+{"tagname": "a", "offset": [55, 293.20001220703125], "text": "\n                                Beauty\n                            ", "id": "btn_category_kso_online_beauty"}
+{"tagname": "a", "offset": [55, 317.20001220703125], "text": "\n                                Bags & Luggage\n                            ", "id": "btn_category_kso_online_ife_af"}
+{"tagname": "a", "offset": [55, 398.79998779296875], "text": "Save The Duck", "id": "btn_brand_save-the-duck"}
+{"tagname": "a", "offset": [55, 422.79998779296875], "text": "Scene Shang", "id": "btn_brand_scene-shang"}
+{"tagname": "a", "offset": [55, 446.79998779296875], "text": "Apple", "id": "btn_brand_apple"}
+{"tagname": "a", "offset": [55, 470.79998779296875], "text": "Samsonite", "id": "btn_brand_samsonite"}
+{"tagname": "a", "offset": [55, 494.79998779296875], "text": "Lush Addiction", "id": "btn_brand_lush-addiction"}
+{"tagname": "h6", "offset": [333.5, 220.1999969482422], "text": "Lush Addiction Cloris Earrings-Amy", "id": "index_product_header_Lush Addiction Cloris Earrings-Amy"}
+{"tagname": "img", "offset": [507.08331298828125, 284.3999938964844], "text": "", "id": "img_product_156570"}
+{"tagname": "a", "offset": [353.5, 504.20001220703125], "text": "Show product", "id": "btn_product_156570"}
+{"tagname": "h6", "offset": [862.6666870117188, 220.1999969482422], "text": "Samsonite Openroad Laptop Backpack 15.6\"\" - Jet Black", "id": "index_product_header_Samsonite Openroad Laptop Backpack 15.6\"\" - Jet Black"}
+{"tagname": "img", "offset": [1036.25, 284.3999938964844], "text": "", "id": "img_product_167997"}
+{"tagname": "a", "offset": [882.6666870117188, 579.2000122070312], "text": "Show product", "id": "btn_product_167997"}
+{"tagname": "h6", "offset": [1391.8333740234375, 220.1999969482422], "text": "Samsonite Openroad Bailhandle 15.6\"\" Exp - Jet Black", "id": "index_product_header_Samsonite Openroad Bailhandle 15.6\"\" Exp - Jet Black"}
+{"tagname": "img", "offset": [1565.4166259765625, 284.3999938964844], "text": "", "id": "img_product_167999"}
+{"tagname": "a", "offset": [1411.8333740234375, 579.2000122070312], "text": "Show product", "id": "btn_product_167999"}
+{"tagname": "h6", "offset": [333.5, 679.2000122070312], "text": "Samsonite Black Label Veron Briefcase M", "id": "index_product_header_Samsonite Black Label Veron Briefcase M"}
+{"tagname": "img", "offset": [507.08331298828125, 743.4000244140625], "text": "", "id": "img_product_168001"}
+{"tagname": "a", "offset": [353.5, 913.3499755859375], "text": "Show product", "id": "btn_product_168001"}
+{"tagname": "h6", "offset": [862.6666870117188, 679.2000122070312], "text": "Scene Shang Bliss \"\"Fu\"\" Lacquer Box", "id": "index_product_header_Scene Shang Bliss \"\"Fu\"\" Lacquer Box"}
+{"tagname": "img", "offset": [1036.25, 743.4000244140625], "text": "", "id": "img_product_201151"}
+{"tagname": "a", "offset": [882.6666870117188, 963.2000122070312], "text": "Show product", "id": "btn_product_201151"}
+{"tagname": "h6", "offset": [1391.8333740234375, 679.2000122070312], "text": "Scene Shang Jia Ju Rocking Stool Natural Beech", "id": "index_product_header_Scene Shang Jia Ju Rocking Stool Natural Beech"}
+{"tagname": "img", "offset": [1565.4166259765625, 743.4000244140625], "text": "", "id": "img_product_201162"}
+{"tagname": "a", "offset": [1411.8333740234375, 963.2000122070312], "text": "Show product", "id": "btn_product_201162"}
+{"tagname": "h6", "offset": [333.5, 1063.199951171875], "text": "Scene Shang Jia Ju Rocking Stool Walnut", "id": "index_product_header_Scene Shang Jia Ju Rocking Stool Walnut"}
+{"tagname": "img", "offset": [507.08331298828125, 1127.4000244140625], "text": "", "id": "img_product_201163"}
+{"tagname": "a", "offset": [353.5, 1347.199951171875], "text": "Show product", "id": "btn_product_201163"}
+{"tagname": "h6", "offset": [862.6666870117188, 1063.199951171875], "text": "Scene Shang Love \"Ai\" Lacquer Box", "id": "index_product_header_Scene Shang Love \"Ai\" Lacquer Box"}
+{"tagname": "img", "offset": [1036.25, 1127.4000244140625], "text": "", "id": "img_product_201170"}
+{"tagname": "a", "offset": [882.6666870117188, 1347.199951171875], "text": "Show product", "id": "btn_product_201170"}
+{"tagname": "h6", "offset": [1391.8333740234375, 1063.199951171875], "text": "Scene Shang Shang System - Er Combination (Light Wood), Wutong & Legend", "id": "index_product_header_Scene Shang Shang System - Er Combination (Light Wood), Wutong & Legend"}
+{"tagname": "img", "offset": [1565.4166259765625, 1160.4000244140625], "text": "", "id": "img_product_201181"}
+{"tagname": "a", "offset": [1411.8333740234375, 1240.4000244140625], "text": "Show product", "id": "btn_product_201181"}
+{"tagname": "h6", "offset": [333.5, 1447.199951171875], "text": "Scene Shang The Maverick Armchair - Wutong Green", "id": "index_product_header_Scene Shang The Maverick Armchair - Wutong Green"}
+{"tagname": "img", "offset": [507.08331298828125, 1511.4000244140625], "text": "", "id": "img_product_201185"}
+{"tagname": "a", "offset": [353.5, 1731.199951171875], "text": "Show product", "id": "btn_product_201185"}
+{"tagname": "h6", "offset": [862.6666870117188, 1447.199951171875], "text": "Apple Iphone Xs 512Gb Space Grey", "id": "index_product_header_Apple Iphone Xs 512Gb Space Grey"}
+{"tagname": "img", "offset": [1036.25, 1511.4000244140625], "text": "", "id": "img_product_201503"}
+{"tagname": "a", "offset": [882.6666870117188, 1665.5166015625], "text": "Show product", "id": "btn_product_201503"}
+{"tagname": "h6", "offset": [1391.8333740234375, 1447.199951171875], "text": "Apple Iphone Xr 256Gb Black", "id": "index_product_header_Apple Iphone Xr 256Gb Black"}
+{"tagname": "img", "offset": [1565.4166259765625, 1511.4000244140625], "text": "", "id": "img_product_201518"}
+{"tagname": "a", "offset": [1411.8333740234375, 1705.5833740234375], "text": "Show product", "id": "btn_product_201518"}
+{"tagname": "h6", "offset": [333.5, 1831.199951171875], "text": "Scene Shang Shang System - Yi Combination (Black), Ivory", "id": "index_product_header_Scene Shang Shang System - Yi Combination (Black), Ivory"}
+{"tagname": "img", "offset": [507.08331298828125, 1895.4000244140625], "text": "", "id": "img_product_201722"}
+{"tagname": "a", "offset": [353.5, 2115.199951171875], "text": "Show product", "id": "btn_product_201722"}
+{"tagname": "h6", "offset": [862.6666870117188, 1831.199951171875], "text": "Scene Shang Musiccloth\u00ae Paper Cut Animals - Cranes", "id": "index_product_header_Scene Shang Musiccloth\u00ae Paper Cut Animals - Cranes"}
+{"tagname": "img", "offset": [1036.25, 1895.4000244140625], "text": "", "id": "img_product_201723"}
+{"tagname": "a", "offset": [882.6666870117188, 2115.199951171875], "text": "Show product", "id": "btn_product_201723"}
+{"tagname": "h6", "offset": [1391.8333740234375, 1831.199951171875], "text": "Scene Shang Musiccloth\u00ae Paper Cut Animals - Fishes", "id": "index_product_header_Scene Shang Musiccloth\u00ae Paper Cut Animals - Fishes"}
+{"tagname": "img", "offset": [1565.4166259765625, 1895.4000244140625], "text": "", "id": "img_product_201724"}
+{"tagname": "a", "offset": [1411.8333740234375, 2115.199951171875], "text": "Show product", "id": "btn_product_201724"}
+{"tagname": "h6", "offset": [333.5, 2215.199951171875], "text": "Scene Shang Musiccloth\u00ae Paper Cut Animals - Rabbits", "id": "index_product_header_Scene Shang Musiccloth\u00ae Paper Cut Animals - Rabbits"}
+{"tagname": "img", "offset": [507.08331298828125, 2279.39990234375], "text": "", "id": "img_product_201725"}
+{"tagname": "a", "offset": [353.5, 2499.199951171875], "text": "Show product", "id": "btn_product_201725"}
+{"tagname": "h6", "offset": [862.6666870117188, 2215.199951171875], "text": "Scene Shang Sisal Carpet - Doormat Medium, Black", "id": "index_product_header_Scene Shang Sisal Carpet - Doormat Medium, Black"}
+{"tagname": "img", "offset": [1036.25, 2279.39990234375], "text": "", "id": "img_product_201726"}
+{"tagname": "a", "offset": [882.6666870117188, 2499.199951171875], "text": "Show product", "id": "btn_product_201726"}
+{"tagname": "h6", "offset": [1391.8333740234375, 2215.199951171875], "text": "Scene Shang Sisal Carpet - Doormat Medium, Legend", "id": "index_product_header_Scene Shang Sisal Carpet - Doormat Medium, Legend"}
+{"tagname": "img", "offset": [1565.4166259765625, 2279.39990234375], "text": "", "id": "img_product_201727"}
+{"tagname": "a", "offset": [1411.8333740234375, 2499.199951171875], "text": "Show product", "id": "btn_product_201727"}
+{"tagname": "h6", "offset": [333.5, 2599.199951171875], "text": "Scene Shang Sisal Carpet - Doormat Medium, Wu Tong", "id": "index_product_header_Scene Shang Sisal Carpet - Doormat Medium, Wu Tong"}
+{"tagname": "img", "offset": [507.08331298828125, 2663.39990234375], "text": "", "id": "img_product_201728"}
+{"tagname": "a", "offset": [353.5, 2883.199951171875], "text": "Show product", "id": "btn_product_201728"}
+{"tagname": "h6", "offset": [862.6666870117188, 2599.199951171875], "text": "Scene Shang Sisal Carpet - Doormat Medium, Khaki Cream", "id": "index_product_header_Scene Shang Sisal Carpet - Doormat Medium, Khaki Cream"}
+{"tagname": "img", "offset": [1036.25, 2663.39990234375], "text": "", "id": "img_product_201729"}
+{"tagname": "a", "offset": [882.6666870117188, 2883.199951171875], "text": "Show product", "id": "btn_product_201729"}
+{"tagname": "h6", "offset": [1391.8333740234375, 2599.199951171875], "text": "Scene Shang Sisal Carpet - Doormat Medium, Dream", "id": "index_product_header_Scene Shang Sisal Carpet - Doormat Medium, Dream"}
+{"tagname": "img", "offset": [1565.4166259765625, 2663.39990234375], "text": "", "id": "img_product_201730"}
+{"tagname": "a", "offset": [1411.8333740234375, 2883.199951171875], "text": "Show product", "id": "btn_product_201730"}
+{"tagname": "h6", "offset": [333.5, 2983.199951171875], "text": "Scene Shang Sisal Carpet - Long Runner, Black", "id": "index_product_header_Scene Shang Sisal Carpet - Long Runner, Black"}
+{"tagname": "img", "offset": [507.08331298828125, 3047.39990234375], "text": "", "id": "img_product_201731"}
+{"tagname": "a", "offset": [353.5, 3267.199951171875], "text": "Show product", "id": "btn_product_201731"}
+{"tagname": "h6", "offset": [862.6666870117188, 2983.199951171875], "text": "Scene Shang Sisal Carpet - Long Runner, Legend", "id": "index_product_header_Scene Shang Sisal Carpet - Long Runner, Legend"}
+{"tagname": "img", "offset": [1036.25, 3047.39990234375], "text": "", "id": "img_product_201732"}
+{"tagname": "a", "offset": [882.6666870117188, 3267.199951171875], "text": "Show product", "id": "btn_product_201732"}
+{"tagname": "h6", "offset": [1391.8333740234375, 2983.199951171875], "text": "Scene Shang Sisal Carpet - Long Runner, Wu Tong", "id": "index_product_header_Scene Shang Sisal Carpet - Long Runner, Wu Tong"}
+{"tagname": "img", "offset": [1565.4166259765625, 3047.39990234375], "text": "", "id": "img_product_201733"}
+{"tagname": "a", "offset": [1411.8333740234375, 3267.199951171875], "text": "Show product", "id": "btn_product_201733"}
+{"tagname": "h6", "offset": [333.5, 3367.199951171875], "text": "Scene Shang Sisal Carpet - Long Runner, Khaki Cream", "id": "index_product_header_Scene Shang Sisal Carpet - Long Runner, Khaki Cream"}
+{"tagname": "img", "offset": [507.08331298828125, 3431.39990234375], "text": "", "id": "img_product_201734"}
+{"tagname": "a", "offset": [353.5, 3651.199951171875], "text": "Show product", "id": "btn_product_201734"}
+{"tagname": "h6", "offset": [862.6666870117188, 3367.199951171875], "text": "Scene Shang Sisal Carpet - Long Runner, Dream", "id": "index_product_header_Scene Shang Sisal Carpet - Long Runner, Dream"}
+{"tagname": "img", "offset": [1036.25, 3431.39990234375], "text": "", "id": "img_product_201735"}
+{"tagname": "a", "offset": [882.6666870117188, 3651.199951171875], "text": "Show product", "id": "btn_product_201735"}
+{"tagname": "h6", "offset": [1391.8333740234375, 3367.199951171875], "text": "Scene Shang The Maverick Armchair - Oxblood", "id": "index_product_header_Scene Shang The Maverick Armchair - Oxblood"}
+{"tagname": "img", "offset": [1565.4166259765625, 3431.39990234375], "text": "", "id": "img_product_201794"}
+{"tagname": "a", "offset": [1411.8333740234375, 3651.199951171875], "text": "Show product", "id": "btn_product_201794"}
+{"tagname": "h6", "offset": [333.5, 3751.199951171875], "text": "Scene Shang The Maverick Armchair - Coffee", "id": "index_product_header_Scene Shang The Maverick Armchair - Coffee"}
+{"tagname": "img", "offset": [507.08331298828125, 3815.39990234375], "text": "", "id": "img_product_201795"}
+{"tagname": "a", "offset": [353.5, 4035.199951171875], "text": "Show product", "id": "btn_product_201795"}
+{"tagname": "h6", "offset": [862.6666870117188, 3751.199951171875], "text": "Scene Shang The Maverick Armchair - Hunter Green", "id": "index_product_header_Scene Shang The Maverick Armchair - Hunter Green"}
+{"tagname": "img", "offset": [1036.25, 3815.39990234375], "text": "", "id": "img_product_201796"}
+{"tagname": "a", "offset": [882.6666870117188, 4035.199951171875], "text": "Show product", "id": "btn_product_201796"}
+{"tagname": "h6", "offset": [1391.8333740234375, 3751.199951171875], "text": "Apple Ipad Mini Wi-Fi 256Gb - Gold", "id": "index_product_header_Apple Ipad Mini Wi-Fi 256Gb - Gold"}
+{"tagname": "img", "offset": [1565.4166259765625, 3815.39990234375], "text": "", "id": "img_product_201857"}
+{"tagname": "a", "offset": [1411.8333740234375, 3969.5166015625], "text": "Show product", "id": "btn_product_201857"}
+{"tagname": "h6", "offset": [333.5, 4135.2001953125], "text": "Apple Ipad Mini Wi-Fi 64Gb - Space Grey", "id": "index_product_header_Apple Ipad Mini Wi-Fi 64Gb - Space Grey"}
+{"tagname": "img", "offset": [507.08331298828125, 4199.39990234375], "text": "", "id": "img_product_201858"}
+{"tagname": "a", "offset": [353.5, 4353.5166015625], "text": "Show product", "id": "btn_product_201858"}
+{"tagname": "h6", "offset": [862.6666870117188, 4135.2001953125], "text": "Apple Ipad Mini Wi-Fi 256Gb - Silver", "id": "index_product_header_Apple Ipad Mini Wi-Fi 256Gb - Silver"}
+{"tagname": "img", "offset": [1036.25, 4199.39990234375], "text": "", "id": "img_product_201859"}
+{"tagname": "a", "offset": [882.6666870117188, 4353.5166015625], "text": "Show product", "id": "btn_product_201859"}
+{"tagname": "h6", "offset": [1391.8333740234375, 4135.2001953125], "text": "Apple Ipad Mini Wi-Fi 256Gb - Space Grey", "id": "index_product_header_Apple Ipad Mini Wi-Fi 256Gb - Space Grey"}
+{"tagname": "img", "offset": [1565.4166259765625, 4199.39990234375], "text": "", "id": "img_product_201860"}
+{"tagname": "a", "offset": [1411.8333740234375, 4353.5166015625], "text": "Show product", "id": "btn_product_201860"}
+{"tagname": "h6", "offset": [333.5, 4453.5166015625], "text": "Apple Ipad Mini Wi-Fi 64Gb - Gold", "id": "index_product_header_Apple Ipad Mini Wi-Fi 64Gb - Gold"}
+{"tagname": "img", "offset": [507.08331298828125, 4517.716796875], "text": "", "id": "img_product_201861"}
+{"tagname": "a", "offset": [353.5, 4671.83349609375], "text": "Show product", "id": "btn_product_201861"}
+{"tagname": "h6", "offset": [862.6666870117188, 4453.5166015625], "text": "Apple Ipad Mini Wi-Fi 64Gb - Silver", "id": "index_product_header_Apple Ipad Mini Wi-Fi 64Gb - Silver"}
+{"tagname": "img", "offset": [1036.25, 4517.716796875], "text": "", "id": "img_product_201862"}
+{"tagname": "a", "offset": [882.6666870117188, 4671.83349609375], "text": "Show product", "id": "btn_product_201862"}
+{"tagname": "h6", "offset": [1391.8333740234375, 4453.5166015625], "text": "Apple Ipad Mini Wi-Fi + Cellular 64Gb - Space Grey", "id": "index_product_header_Apple Ipad Mini Wi-Fi + Cellular 64Gb - Space Grey"}
+{"tagname": "img", "offset": [1565.4166259765625, 4517.716796875], "text": "", "id": "img_product_201863"}
+{"tagname": "a", "offset": [1411.8333740234375, 4671.83349609375], "text": "Show product", "id": "btn_product_201863"}
+{"tagname": "h6", "offset": [333.5, 4771.83349609375], "text": "Apple Ipad Mini Wi-Fi + Cellular 256Gb - Gold", "id": "index_product_header_Apple Ipad Mini Wi-Fi + Cellular 256Gb - Gold"}
+{"tagname": "img", "offset": [507.08331298828125, 4836.033203125], "text": "", "id": "img_product_201864"}
+{"tagname": "a", "offset": [353.5, 4990.14990234375], "text": "Show product", "id": "btn_product_201864"}
+{"tagname": "h6", "offset": [862.6666870117188, 4771.83349609375], "text": "Apple Ipad Mini Wi-Fi + Cellular 256Gb - Silver", "id": "index_product_header_Apple Ipad Mini Wi-Fi + Cellular 256Gb - Silver"}
+{"tagname": "img", "offset": [1036.25, 4836.033203125], "text": "", "id": "img_product_201865"}
+{"tagname": "a", "offset": [882.6666870117188, 4990.14990234375], "text": "Show product", "id": "btn_product_201865"}
+{"tagname": "h6", "offset": [1391.8333740234375, 4771.83349609375], "text": "Apple Ipad Mini Wi-Fi + Cellular 256Gb - Space Grey", "id": "index_product_header_Apple Ipad Mini Wi-Fi + Cellular 256Gb - Space Grey"}
+{"tagname": "img", "offset": [1565.4166259765625, 4836.033203125], "text": "", "id": "img_product_201866"}
+{"tagname": "a", "offset": [1411.8333740234375, 4990.14990234375], "text": "Show product", "id": "btn_product_201866"}
+{"tagname": "h6", "offset": [333.5, 5090.14990234375], "text": "Apple Ipad Mini Wi-Fi + Cellular 64Gb - Gold", "id": "index_product_header_Apple Ipad Mini Wi-Fi + Cellular 64Gb - Gold"}
+{"tagname": "img", "offset": [507.08331298828125, 5154.35009765625], "text": "", "id": "img_product_201867"}
+{"tagname": "a", "offset": [353.5, 5308.466796875], "text": "Show product", "id": "btn_product_201867"}
+{"tagname": "h6", "offset": [862.6666870117188, 5090.14990234375], "text": "Apple Ipad Mini Wi-Fi + Cellular 64Gb - Silver", "id": "index_product_header_Apple Ipad Mini Wi-Fi + Cellular 64Gb - Silver"}
+{"tagname": "img", "offset": [1036.25, 5154.35009765625], "text": "", "id": "img_product_201868"}
+{"tagname": "a", "offset": [882.6666870117188, 5308.466796875], "text": "Show product", "id": "btn_product_201868"}
+{"tagname": "h6", "offset": [1391.8333740234375, 5090.14990234375], "text": "Scene Shang White Pagoda Papercut Room Diffuser 100Ml", "id": "index_product_header_Scene Shang White Pagoda Papercut Room Diffuser 100Ml"}
+{"tagname": "img", "offset": [1565.4166259765625, 5154.35009765625], "text": "", "id": "img_product_202004"}
+{"tagname": "a", "offset": [1411.8333740234375, 5374.14990234375], "text": "Show product", "id": "btn_product_202004"}
+{"tagname": "h6", "offset": [333.5, 5474.14990234375], "text": "Scene Shang White Pagoda Essential Oill 15Ml", "id": "index_product_header_Scene Shang White Pagoda Essential Oill 15Ml"}
+{"tagname": "img", "offset": [507.08331298828125, 5538.35009765625], "text": "", "id": "img_product_202006"}
+{"tagname": "a", "offset": [353.5, 5758.14990234375], "text": "Show product", "id": "btn_product_202006"}
+{"tagname": "h6", "offset": [862.6666870117188, 5474.14990234375], "text": "Scene Shang White Pagoda Room Mist 100Ml", "id": "index_product_header_Scene Shang White Pagoda Room Mist 100Ml"}
+{"tagname": "img", "offset": [1036.25, 5538.35009765625], "text": "", "id": "img_product_202005"}
+{"tagname": "a", "offset": [882.6666870117188, 5758.14990234375], "text": "Show product", "id": "btn_product_202005"}
+{"tagname": "h6", "offset": [1391.8333740234375, 5474.14990234375], "text": "Scene Shang Orchid Island Papercut Room Diffuser 100Ml", "id": "index_product_header_Scene Shang Orchid Island Papercut Room Diffuser 100Ml"}
+{"tagname": "img", "offset": [1565.4166259765625, 5538.35009765625], "text": "", "id": "img_product_202007"}
+{"tagname": "a", "offset": [1411.8333740234375, 5758.14990234375], "text": "Show product", "id": "btn_product_202007"}
+{"tagname": "h6", "offset": [333.5, 5858.14990234375], "text": "Scene Shang Orchid Island Room Mist 100Ml", "id": "index_product_header_Scene Shang Orchid Island Room Mist 100Ml"}
+{"tagname": "img", "offset": [507.08331298828125, 5922.35009765625], "text": "", "id": "img_product_202008"}
+{"tagname": "a", "offset": [353.5, 6142.14990234375], "text": "Show product", "id": "btn_product_202008"}
+{"tagname": "h6", "offset": [862.6666870117188, 5858.14990234375], "text": "Scene Shang Jade Courtyard Papercut Room Diffuser 100Ml", "id": "index_product_header_Scene Shang Jade Courtyard Papercut Room Diffuser 100Ml"}
+{"tagname": "img", "offset": [1036.25, 5922.35009765625], "text": "", "id": "img_product_202010"}
+{"tagname": "a", "offset": [882.6666870117188, 6142.14990234375], "text": "Show product", "id": "btn_product_202010"}
+{"tagname": "h6", "offset": [1391.8333740234375, 5858.14990234375], "text": "Scene Shang Orchid Island Essential Oil 15Ml", "id": "index_product_header_Scene Shang Orchid Island Essential Oil 15Ml"}
+{"tagname": "img", "offset": [1565.4166259765625, 5922.35009765625], "text": "", "id": "img_product_202009"}
+{"tagname": "a", "offset": [1411.8333740234375, 6142.14990234375], "text": "Show product", "id": "btn_product_202009"}
+{"tagname": "h6", "offset": [333.5, 6242.14990234375], "text": "Scene Shang Jade Courtyard Room Mist 100Ml", "id": "index_product_header_Scene Shang Jade Courtyard Room Mist 100Ml"}
+{"tagname": "img", "offset": [507.08331298828125, 6306.35009765625], "text": "", "id": "img_product_202011"}
+{"tagname": "a", "offset": [353.5, 6526.14990234375], "text": "Show product", "id": "btn_product_202011"}
+{"tagname": "h6", "offset": [862.6666870117188, 6242.14990234375], "text": "Scene Shang Jade Courtyard Essential Oill 15Ml", "id": "index_product_header_Scene Shang Jade Courtyard Essential Oill 15Ml"}
+{"tagname": "img", "offset": [1036.25, 6306.35009765625], "text": "", "id": "img_product_202012"}
+{"tagname": "a", "offset": [882.6666870117188, 6526.14990234375], "text": "Show product", "id": "btn_product_202012"}
+{"tagname": "h6", "offset": [1391.8333740234375, 6242.14990234375], "text": "Airpods With Charging Case", "id": "index_product_header_Airpods With Charging Case"}
+{"tagname": "img", "offset": [1565.4166259765625, 6306.35009765625], "text": "", "id": "img_product_201982"}
+{"tagname": "a", "offset": [1411.8333740234375, 6624.4501953125], "text": "Show product", "id": "btn_product_201982"}
+{"tagname": "h6", "offset": [333.5, 6724.4501953125], "text": "GWP Lush Addiction Symphony Earrings made With Crystals From Swarovski", "id": "index_product_header_GWP Lush Addiction Symphony Earrings made With Crystals From Swarovski"}
+{"tagname": "img", "offset": [507.08331298828125, 6807.85009765625], "text": "", "id": "img_product_157003"}
+{"tagname": "a", "offset": [353.5, 7027.64990234375], "text": "Show product", "id": "btn_product_157003"}
+{"tagname": "h6", "offset": [862.6666870117188, 6724.4501953125], "text": "Save The Duck Short Quilted Jacket Twilight Blue Size 1", "id": "index_product_header_Save The Duck Short Quilted Jacket Twilight Blue Size 1"}
+{"tagname": "img", "offset": [1036.25, 6788.64990234375], "text": "", "id": "img_product_261179"}
+{"tagname": "a", "offset": [882.6666870117188, 7049.91650390625], "text": "Show product", "id": "btn_product_261179"}
+{"tagname": "h6", "offset": [1391.8333740234375, 6724.4501953125], "text": "Save The Duck Short Quilted Jacket Twilight Blue Size 3", "id": "index_product_header_Save The Duck Short Quilted Jacket Twilight Blue Size 3"}
+{"tagname": "img", "offset": [1565.4166259765625, 6788.64990234375], "text": "", "id": "img_product_261181"}
+{"tagname": "a", "offset": [1411.8333740234375, 7049.91650390625], "text": "Show product", "id": "btn_product_261181"}
+{"tagname": "h6", "offset": [333.5, 7149.91650390625], "text": "Save The Duck Short Quilted Jacket Blush Pink Size 8 Yrs", "id": "index_product_header_Save The Duck Short Quilted Jacket Blush Pink Size 8 Yrs"}
+{"tagname": "img", "offset": [507.08331298828125, 7214.11669921875], "text": "", "id": "img_product_261187"}
+{"tagname": "a", "offset": [353.5, 7475.38330078125], "text": "Show product", "id": "btn_product_261187"}
+{"tagname": "h6", "offset": [862.6666870117188, 7149.91650390625], "text": "Save The Duck Gilet Opal Grey Melange Size 2", "id": "index_product_header_Save The Duck Gilet Opal Grey Melange Size 2"}
+{"tagname": "img", "offset": [1036.25, 7214.11669921875], "text": "", "id": "img_product_261191"}
+{"tagname": "a", "offset": [882.6666870117188, 7475.38330078125], "text": "Show product", "id": "btn_product_261191"}
+{"tagname": "h6", "offset": [1391.8333740234375, 7149.91650390625], "text": "Save The Duck Short Quilted Jacket Twilight Blue Size S", "id": "index_product_header_Save The Duck Short Quilted Jacket Twilight Blue Size S"}
+{"tagname": "img", "offset": [1565.4166259765625, 7214.11669921875], "text": "", "id": "img_product_261203"}
+{"tagname": "a", "offset": [1411.8333740234375, 7475.38330078125], "text": "Show product", "id": "btn_product_261203"}
+{"tagname": "h6", "offset": [333.5, 7575.38330078125], "text": "Save The Duck Short Quilted Jacket Twilight Blue Size M", "id": "index_product_header_Save The Duck Short Quilted Jacket Twilight Blue Size M"}
+{"tagname": "img", "offset": [507.08331298828125, 7639.58349609375], "text": "", "id": "img_product_261204"}
+{"tagname": "a", "offset": [353.5, 7900.85009765625], "text": "Show product", "id": "btn_product_261204"}
+{"tagname": "h6", "offset": [862.6666870117188, 7575.38330078125], "text": "Save The Duck Short Quilted Jacket Shadow Black Size S", "id": "index_product_header_Save The Duck Short Quilted Jacket Shadow Black Size S"}
+{"tagname": "img", "offset": [1036.25, 7639.58349609375], "text": "", "id": "img_product_261215"}
+{"tagname": "a", "offset": [882.6666870117188, 7900.85009765625], "text": "Show product", "id": "btn_product_261215"}
+{"tagname": "h6", "offset": [1391.8333740234375, 7575.38330078125], "text": "Save The Duck Parker Navy Blue Size S", "id": "index_product_header_Save The Duck Parker Navy Blue Size S"}
+{"tagname": "img", "offset": [1565.4166259765625, 7639.58349609375], "text": "", "id": "img_product_261218"}
+{"tagname": "a", "offset": [1411.8333740234375, 7900.85009765625], "text": "Show product", "id": "btn_product_261218"}
+{"tagname": "h6", "offset": [333.5, 8000.85009765625], "text": "Save The Duck Short Quilted Jacket Navy Blue Size S", "id": "index_product_header_Save The Duck Short Quilted Jacket Navy Blue Size S"}
+{"tagname": "img", "offset": [507.08331298828125, 8065.0498046875], "text": "", "id": "img_product_261224"}
+{"tagname": "a", "offset": [353.5, 8326.31640625], "text": "Show product", "id": "btn_product_261224"}
+{"tagname": "h6", "offset": [862.6666870117188, 8000.85009765625], "text": "Samsonite Openroad Laptop Backpack 15.6\" (Eclipse Grey)", "id": "index_product_header_Samsonite Openroad Laptop Backpack 15.6\" (Eclipse Grey)"}
+{"tagname": "img", "offset": [1036.25, 8065.0498046875], "text": "", "id": "img_product_261244"}
+{"tagname": "a", "offset": [882.6666870117188, 8359.849609375], "text": "Show product", "id": "btn_product_261244"}
+{"tagname": "h6", "offset": [1391.8333740234375, 8000.85009765625], "text": "Samsonite Openroad Bailhandle 15.6\" Exp (Eclipse Grey)", "id": "index_product_header_Samsonite Openroad Bailhandle 15.6\" Exp (Eclipse Grey)"}
+{"tagname": "img", "offset": [1565.4166259765625, 8065.0498046875], "text": "", "id": "img_product_261245"}
+{"tagname": "a", "offset": [1411.8333740234375, 8359.849609375], "text": "Show product", "id": "btn_product_261245"}
+{"tagname": "h6", "offset": [333.5, 8459.849609375], "text": "Applecare+ For Macbook/Macbook Air", "id": "index_product_header_Applecare+ For Macbook/Macbook Air"}
+{"tagname": "img", "offset": [507.08331298828125, 8524.0498046875], "text": "", "id": "img_product_202295"}
+{"tagname": "a", "offset": [353.5, 8743.849609375], "text": "Show product", "id": "btn_product_202295"}
+{"tagname": "h6", "offset": [862.6666870117188, 8459.849609375], "text": "Applecare+ For 15-Inch Macbook Pro", "id": "index_product_header_Applecare+ For 15-Inch Macbook Pro"}
+{"tagname": "img", "offset": [1036.25, 8524.0498046875], "text": "", "id": "img_product_202296"}
+{"tagname": "a", "offset": [882.6666870117188, 8743.849609375], "text": "Show product", "id": "btn_product_202296"}
+{"tagname": "h6", "offset": [1391.8333740234375, 8459.849609375], "text": "Applecare+ For 13-Inch Macbook Pro", "id": "index_product_header_Applecare+ For 13-Inch Macbook Pro"}
+{"tagname": "img", "offset": [1565.4166259765625, 8524.0498046875], "text": "", "id": "img_product_202297"}
+{"tagname": "a", "offset": [1411.8333740234375, 8743.849609375], "text": "Show product", "id": "btn_product_202297"}
+{"tagname": "h6", "offset": [333.5, 8843.849609375], "text": "Applecare+ For Iphone 11 Pro, 11 Pro Max, Xs, Xs Max, And X", "id": "index_product_header_Applecare+ For Iphone 11 Pro, 11 Pro Max, Xs, Xs Max, And X"}
+{"tagname": "img", "offset": [507.08331298828125, 8908.0498046875], "text": "", "id": "img_product_202298"}
+{"tagname": "a", "offset": [353.5, 9127.849609375], "text": "Show product", "id": "btn_product_202298"}
+{"tagname": "h6", "offset": [862.6666870117188, 8843.849609375], "text": "Applecare+ For Ipad/Ipad Mini/Ipad Air", "id": "index_product_header_Applecare+ For Ipad/Ipad Mini/Ipad Air"}
+{"tagname": "img", "offset": [1036.25, 8908.0498046875], "text": "", "id": "img_product_202299"}
+{"tagname": "a", "offset": [882.6666870117188, 9127.849609375], "text": "Show product", "id": "btn_product_202299"}
+{"tagname": "h6", "offset": [1391.8333740234375, 8843.849609375], "text": "Applecare+ For Ipad Pro", "id": "index_product_header_Applecare+ For Ipad Pro"}
+{"tagname": "img", "offset": [1565.4166259765625, 8908.0498046875], "text": "", "id": "img_product_202300"}
+{"tagname": "a", "offset": [1411.8333740234375, 9127.849609375], "text": "Show product", "id": "btn_product_202300"}
+{"tagname": "h6", "offset": [333.5, 9227.849609375], "text": "Applecare+ For Apple Watch Series 4 & 5", "id": "index_product_header_Applecare+ For Apple Watch Series 4 & 5"}
+{"tagname": "img", "offset": [507.08331298828125, 9292.0498046875], "text": "", "id": "img_product_202301"}
+{"tagname": "a", "offset": [353.5, 9511.849609375], "text": "Show product", "id": "btn_product_202301"}
+{"tagname": "h6", "offset": [862.6666870117188, 9227.849609375], "text": "Apple Watch Series 5 Gps + Cellular, 44MM Space Black Stainless Steel Case With Space Black Milanese Loop", "id": "index_product_header_Apple Watch Series 5 Gps + Cellular, 44MM Space Black Stainless Steel Case With Space Black Milanese Loop"}
+{"tagname": "img", "offset": [1036.25, 9311.25], "text": "", "id": "img_product_202587"}
+{"tagname": "a", "offset": [882.6666870117188, 9554.349609375], "text": "Show product", "id": "btn_product_202587"}
+{"tagname": "h6", "offset": [1391.8333740234375, 9227.849609375], "text": "Apple Watch Series 5 Gps + Cellular, 40MM Stainless Steel Case With Stainless Steel Milanese Loop", "id": "index_product_header_Apple Watch Series 5 Gps + Cellular, 40MM Stainless Steel Case With Stainless Steel Milanese Loop"}
+{"tagname": "img", "offset": [1565.4166259765625, 9311.25], "text": "", "id": "img_product_202592"}
+{"tagname": "a", "offset": [1411.8333740234375, 9553.4169921875], "text": "Show product", "id": "btn_product_202592"}
+{"tagname": "h6", "offset": [333.5, 9654.349609375], "text": "Apple Watch Series 5 Gps + Cellular, 40MM Space Black Stainless Steel Case With Space Black Milanese Loop", "id": "index_product_header_Apple Watch Series 5 Gps + Cellular, 40MM Space Black Stainless Steel Case With Space Black Milanese Loop"}
+{"tagname": "img", "offset": [507.08331298828125, 9737.75], "text": "", "id": "img_product_202596"}
+{"tagname": "a", "offset": [353.5, 9979.9169921875], "text": "Show product", "id": "btn_product_202596"}
+{"tagname": "h6", "offset": [862.6666870117188, 9654.349609375], "text": "Applecare+ For Headphones", "id": "index_product_header_Applecare+ For Headphones"}
+{"tagname": "img", "offset": [1036.25, 9718.5498046875], "text": "", "id": "img_product_202632"}
+{"tagname": "a", "offset": [882.6666870117188, 9938.349609375], "text": "Show product", "id": "btn_product_202632"}
+{"tagname": "h6", "offset": [1391.8333740234375, 9654.349609375], "text": "Applecare+ For Iphone 11, Xr, And Plus Models", "id": "index_product_header_Applecare+ For Iphone 11, Xr, And Plus Models"}
+{"tagname": "img", "offset": [1565.4166259765625, 9718.5498046875], "text": "", "id": "img_product_202633"}
+{"tagname": "a", "offset": [1411.8333740234375, 9938.349609375], "text": "Show product", "id": "btn_product_202633"}
+{"tagname": "h6", "offset": [333.5, 10079.9169921875], "text": "Lush Addiction Trilliant Night Necklace & Bangle Set", "id": "index_product_header_Lush Addiction Trilliant Night Necklace & Bangle Set"}
+{"tagname": "img", "offset": [507.08331298828125, 10144.1162109375], "text": "", "id": "img_product_157095"}
+{"tagname": "a", "offset": [353.5, 10363.9169921875], "text": "Show product", "id": "btn_product_157095"}
+{"tagname": "h6", "offset": [862.6666870117188, 10079.9169921875], "text": "Apple Airpods Pro", "id": "index_product_header_Apple Airpods Pro"}
+{"tagname": "img", "offset": [1036.25, 10144.1162109375], "text": "", "id": "img_product_202833"}
+{"tagname": "a", "offset": [882.6666870117188, 10363.9169921875], "text": "Show product", "id": "btn_product_202833"}
+{"tagname": "h6", "offset": [1391.8333740234375, 10079.9169921875], "text": "Apple 16-Inch Macbook Pro With Touch Bar: 2.6Ghz 6-Core 9Th-Generation Intel\u00a0Core\u00a0I7 Processor, 512Gb - Space Grey", "id": "index_product_header_Apple 16-Inch Macbook Pro With Touch Bar: 2.6Ghz 6-Core 9Th-Generation Intel\u00a0Core\u00a0I7 Processor, 512Gb - Space Grey"}
+{"tagname": "img", "offset": [1565.4166259765625, 10163.31640625], "text": "", "id": "img_product_202901"}
+{"tagname": "a", "offset": [1411.8333740234375, 10383.1162109375], "text": "Show product", "id": "btn_product_202901"}
+{"tagname": "h6", "offset": [333.5, 10483.1162109375], "text": "Apple 16-Inch Macbook Pro With Touch Bar: 2.3Ghz 8-Core 9Th-Generation Intel\u00a0Core\u00a0I9 Processor, 1Tb - Space Grey", "id": "index_product_header_Apple 16-Inch Macbook Pro With Touch Bar: 2.3Ghz 8-Core 9Th-Generation Intel\u00a0Core\u00a0I9 Processor, 1Tb - Space Grey"}
+{"tagname": "img", "offset": [507.08331298828125, 10566.5166015625], "text": "", "id": "img_product_202902"}
+{"tagname": "a", "offset": [353.5, 10786.31640625], "text": "Show product", "id": "btn_product_202902"}
+{"tagname": "h6", "offset": [862.6666870117188, 10483.1162109375], "text": "Apple 16-Inch Macbook Pro With Touch Bar: 2.6Ghz 6-Core 9Th-Generation Intel\u00a0Core\u00a0I7 Processor, 512Gb - Silver", "id": "index_product_header_Apple 16-Inch Macbook Pro With Touch Bar: 2.6Ghz 6-Core 9Th-Generation Intel\u00a0Core\u00a0I7 Processor, 512Gb - Silver"}
+{"tagname": "img", "offset": [1036.25, 10566.5166015625], "text": "", "id": "img_product_202903"}
+{"tagname": "a", "offset": [882.6666870117188, 10786.31640625], "text": "Show product", "id": "btn_product_202903"}
+{"tagname": "h6", "offset": [1391.8333740234375, 10483.1162109375], "text": "Apple 16-Inch Macbook Pro With Touch Bar: 2.3Ghz 8-Core 9Th-Generation Intel\u00a0Core\u00a0I9 Processor, 1Tb - Silver", "id": "index_product_header_Apple 16-Inch Macbook Pro With Touch Bar: 2.3Ghz 8-Core 9Th-Generation Intel\u00a0Core\u00a0I9 Processor, 1Tb - Silver"}
+{"tagname": "img", "offset": [1565.4166259765625, 10566.5166015625], "text": "", "id": "img_product_202904"}
+{"tagname": "a", "offset": [1411.8333740234375, 10786.31640625], "text": "Show product", "id": "btn_product_202904"}
+{"tagname": "h6", "offset": [333.5, 10886.31640625], "text": "Scene Shang Jute Round Rug", "id": "index_product_header_Scene Shang Jute Round Rug"}
+{"tagname": "img", "offset": [507.08331298828125, 10950.5166015625], "text": "", "id": "img_product_202940"}
+{"tagname": "a", "offset": [353.5, 11170.31640625], "text": "Show product", "id": "btn_product_202940"}
+{"tagname": "h6", "offset": [862.6666870117188, 10886.31640625], "text": "Scene Shang Braided Jute Round Rug", "id": "index_product_header_Scene Shang Braided Jute Round Rug"}
+{"tagname": "img", "offset": [1036.25, 10950.5166015625], "text": "", "id": "img_product_202941"}
+{"tagname": "a", "offset": [882.6666870117188, 11170.31640625], "text": "Show product", "id": "btn_product_202941"}
+{"tagname": "h6", "offset": [1391.8333740234375, 10886.31640625], "text": "Lush Addiction Solitaire Necklace Made With Crystals From Swarovski", "id": "index_product_header_Lush Addiction Solitaire Necklace Made With Crystals From Swarovski"}
+{"tagname": "img", "offset": [1565.4166259765625, 10969.716796875], "text": "", "id": "img_product_157203"}
+{"tagname": "a", "offset": [1411.8333740234375, 11189.5166015625], "text": "Show product", "id": "btn_product_157203"}
+{"tagname": "h6", "offset": [333.5, 11289.5166015625], "text": "Save The Duck Women's Hooded Jacket Crystal Grey Size 1", "id": "index_product_header_Save The Duck Women's Hooded Jacket Crystal Grey Size 1"}
+{"tagname": "img", "offset": [507.08331298828125, 11353.716796875], "text": "", "id": "img_product_262353"}
+{"tagname": "a", "offset": [353.5, 11614.9833984375], "text": "Show product", "id": "btn_product_262353"}
+{"tagname": "h6", "offset": [862.6666870117188, 11289.5166015625], "text": "Save The Duck Women's Hooded Jacket Crystal Grey Size 2", "id": "index_product_header_Save The Duck Women's Hooded Jacket Crystal Grey Size 2"}
+{"tagname": "img", "offset": [1036.25, 11353.716796875], "text": "", "id": "img_product_262354"}
+{"tagname": "a", "offset": [882.6666870117188, 11614.9833984375], "text": "Show product", "id": "btn_product_262354"}
+{"tagname": "h6", "offset": [1391.8333740234375, 11289.5166015625], "text": "Save The Duck Women's Hooded Jacket Crystal Grey Size 3", "id": "index_product_header_Save The Duck Women's Hooded Jacket Crystal Grey Size 3"}
+{"tagname": "img", "offset": [1565.4166259765625, 11353.716796875], "text": "", "id": "img_product_262355"}
+{"tagname": "a", "offset": [1411.8333740234375, 11614.9833984375], "text": "Show product", "id": "btn_product_262355"}
+{"tagname": "h6", "offset": [333.5, 11714.9833984375], "text": "Save The Duck Women's Hooded Jacket Crystal Grey Size 4", "id": "index_product_header_Save The Duck Women's Hooded Jacket Crystal Grey Size 4"}
+{"tagname": "img", "offset": [507.08331298828125, 11779.18359375], "text": "", "id": "img_product_262356"}
+{"tagname": "a", "offset": [353.5, 12040.4501953125], "text": "Show product", "id": "btn_product_262356"}
+{"tagname": "h6", "offset": [862.6666870117188, 11714.9833984375], "text": "Save The Duck Women's Hooded Jacket Marina Blue Size 1", "id": "index_product_header_Save The Duck Women's Hooded Jacket Marina Blue Size 1"}
+{"tagname": "img", "offset": [1036.25, 11779.18359375], "text": "", "id": "img_product_262357"}
+{"tagname": "a", "offset": [882.6666870117188, 12040.4501953125], "text": "Show product", "id": "btn_product_262357"}
+{"tagname": "h6", "offset": [1391.8333740234375, 11714.9833984375], "text": "Save The Duck Women's Hooded Jacket Marina Blue Size 2", "id": "index_product_header_Save The Duck Women's Hooded Jacket Marina Blue Size 2"}
+{"tagname": "img", "offset": [1565.4166259765625, 11779.18359375], "text": "", "id": "img_product_262358"}
+{"tagname": "a", "offset": [1411.8333740234375, 12040.4501953125], "text": "Show product", "id": "btn_product_262358"}
+{"tagname": "h6", "offset": [333.5, 12140.4501953125], "text": "Save The Duck Women's Hooded Jacket Marina Blue Size 3", "id": "index_product_header_Save The Duck Women's Hooded Jacket Marina Blue Size 3"}
+{"tagname": "img", "offset": [507.08331298828125, 12204.650390625], "text": "", "id": "img_product_262359"}
+{"tagname": "a", "offset": [353.5, 12465.9169921875], "text": "Show product", "id": "btn_product_262359"}
+{"tagname": "h6", "offset": [862.6666870117188, 12140.4501953125], "text": "Save The Duck Women's Hooded Jacket Marina Blue Size 4", "id": "index_product_header_Save The Duck Women's Hooded Jacket Marina Blue Size 4"}
+{"tagname": "img", "offset": [1036.25, 12204.650390625], "text": "", "id": "img_product_262360"}
+{"tagname": "a", "offset": [882.6666870117188, 12465.9169921875], "text": "Show product", "id": "btn_product_262360"}
+{"tagname": "h6", "offset": [1391.8333740234375, 12140.4501953125], "text": "Save The Duck Women's Lightweight Jacket Crystal Grey Size 1", "id": "index_product_header_Save The Duck Women's Lightweight Jacket Crystal Grey Size 1"}
+{"tagname": "img", "offset": [1565.4166259765625, 12223.849609375], "text": "", "id": "img_product_262361"}
+{"tagname": "a", "offset": [1411.8333740234375, 12485.1162109375], "text": "Show product", "id": "btn_product_262361"}
+{"tagname": "h6", "offset": [333.5, 12585.1162109375], "text": "Save The Duck Women's Lightweight Jacket Crystal Grey Size 2", "id": "index_product_header_Save The Duck Women's Lightweight Jacket Crystal Grey Size 2"}
+{"tagname": "img", "offset": [507.08331298828125, 12668.5166015625], "text": "", "id": "img_product_262362"}
+{"tagname": "a", "offset": [353.5, 12929.783203125], "text": "Show product", "id": "btn_product_262362"}
+{"tagname": "h6", "offset": [862.6666870117188, 12585.1162109375], "text": "Save The Duck Women's Lightweight Jacket Crystal Grey Size 3", "id": "index_product_header_Save The Duck Women's Lightweight Jacket Crystal Grey Size 3"}
+{"tagname": "img", "offset": [1036.25, 12668.5166015625], "text": "", "id": "img_product_262363"}
+{"tagname": "a", "offset": [882.6666870117188, 12929.783203125], "text": "Show product", "id": "btn_product_262363"}
+{"tagname": "h6", "offset": [1391.8333740234375, 12585.1162109375], "text": "Save The Duck Women's Lightweight Jacket Crystal Grey Size 4", "id": "index_product_header_Save The Duck Women's Lightweight Jacket Crystal Grey Size 4"}
+{"tagname": "img", "offset": [1565.4166259765625, 12682.31640625], "text": "", "id": "img_product_262364"}
+{"tagname": "a", "offset": [1411.8333740234375, 12762.31640625], "text": "Show product", "id": "btn_product_262364"}
+{"tagname": "h6", "offset": [333.5, 13029.783203125], "text": "Save The Duck Women's Lightweight Jacket Navy Blue Size 1", "id": "index_product_header_Save The Duck Women's Lightweight Jacket Navy Blue Size 1"}
+{"tagname": "img", "offset": [507.08331298828125, 13107.783203125], "text": "", "id": "img_product_262365"}
+{"tagname": "a", "offset": [353.5, 13187.783203125], "text": "Show product", "id": "btn_product_262365"}
+{"tagname": "h6", "offset": [862.6666870117188, 13029.783203125], "text": "Save The Duck Women's Lightweight Jacket Navy Blue Size 3", "id": "index_product_header_Save The Duck Women's Lightweight Jacket Navy Blue Size 3"}
+{"tagname": "img", "offset": [1036.25, 13126.9833984375], "text": "", "id": "img_product_262367"}
+{"tagname": "a", "offset": [882.6666870117188, 13206.9833984375], "text": "Show product", "id": "btn_product_262367"}
+{"tagname": "h6", "offset": [1391.8333740234375, 13029.783203125], "text": "Save The Duck Women's Lightweight Jacket Blush Pink Size 2", "id": "index_product_header_Save The Duck Women's Lightweight Jacket Blush Pink Size 2"}
+{"tagname": "img", "offset": [1565.4166259765625, 13126.9833984375], "text": "", "id": "img_product_262370"}
+{"tagname": "a", "offset": [1411.8333740234375, 13206.9833984375], "text": "Show product", "id": "btn_product_262370"}
+{"tagname": "h6", "offset": [333.5, 13306.9833984375], "text": "Save The Duck Women's Lightweight Jacket Blush Pink Size 3", "id": "index_product_header_Save The Duck Women's Lightweight Jacket Blush Pink Size 3"}
+{"tagname": "img", "offset": [507.08331298828125, 13404.18359375], "text": "", "id": "img_product_262371"}
+{"tagname": "a", "offset": [353.5, 13484.18359375], "text": "Show product", "id": "btn_product_262371"}
+{"tagname": "h6", "offset": [862.6666870117188, 13306.9833984375], "text": "Save The Duck Women's Lightweight Jacket Blush Pink Size 4", "id": "index_product_header_Save The Duck Women's Lightweight Jacket Blush Pink Size 4"}
+{"tagname": "img", "offset": [1036.25, 13404.18359375], "text": "", "id": "img_product_262372"}
+{"tagname": "a", "offset": [882.6666870117188, 13484.18359375], "text": "Show product", "id": "btn_product_262372"}
+{"tagname": "h6", "offset": [1391.8333740234375, 13306.9833984375], "text": "Save The Duck Women's Lightweight Jacket Dusty Olive Size 1", "id": "index_product_header_Save The Duck Women's Lightweight Jacket Dusty Olive Size 1"}
+{"tagname": "img", "offset": [1565.4166259765625, 13404.18359375], "text": "", "id": "img_product_262373"}
+{"tagname": "a", "offset": [1411.8333740234375, 13484.18359375], "text": "Show product", "id": "btn_product_262373"}
+{"tagname": "h6", "offset": [333.5, 13584.18359375], "text": "Save The Duck Women's Lightweight Jacket Dusty Olive Size 2", "id": "index_product_header_Save The Duck Women's Lightweight Jacket Dusty Olive Size 2"}
+{"tagname": "img", "offset": [507.08331298828125, 13681.3837890625], "text": "", "id": "img_product_262374"}
+{"tagname": "a", "offset": [353.5, 13761.3837890625], "text": "Show product", "id": "btn_product_262374"}
+{"tagname": "h6", "offset": [862.6666870117188, 13584.18359375], "text": "Save The Duck Women's Lightweight Jacket Dusty Olive Size 3", "id": "index_product_header_Save The Duck Women's Lightweight Jacket Dusty Olive Size 3"}
+{"tagname": "img", "offset": [1036.25, 13681.3837890625], "text": "", "id": "img_product_262375"}
+{"tagname": "a", "offset": [882.6666870117188, 13761.3837890625], "text": "Show product", "id": "btn_product_262375"}
+{"tagname": "h6", "offset": [1391.8333740234375, 13584.18359375], "text": "Save The Duck Women's Lightweight Jacket Dusty Olive Size 4", "id": "index_product_header_Save The Duck Women's Lightweight Jacket Dusty Olive Size 4"}
+{"tagname": "img", "offset": [1565.4166259765625, 13681.3837890625], "text": "", "id": "img_product_262376"}
+{"tagname": "a", "offset": [1411.8333740234375, 13761.3837890625], "text": "Show product", "id": "btn_product_262376"}
+{"tagname": "h6", "offset": [333.5, 13861.3837890625], "text": "Save The Duck Women's Hooded Jacket Cool Beige Size 1", "id": "index_product_header_Save The Duck Women's Hooded Jacket Cool Beige Size 1"}
+{"tagname": "img", "offset": [507.08331298828125, 13939.3837890625], "text": "", "id": "img_product_262378"}
+{"tagname": "a", "offset": [353.5, 14019.3837890625], "text": "Show product", "id": "btn_product_262378"}
+{"tagname": "h6", "offset": [862.6666870117188, 13861.3837890625], "text": "Save The Duck Women's Hooded Jacket Cool Beige Size 2", "id": "index_product_header_Save The Duck Women's Hooded Jacket Cool Beige Size 2"}
+{"tagname": "img", "offset": [1036.25, 13939.3837890625], "text": "", "id": "img_product_262379"}
+{"tagname": "a", "offset": [882.6666870117188, 14019.3837890625], "text": "Show product", "id": "btn_product_262379"}
+{"tagname": "h6", "offset": [1391.8333740234375, 13861.3837890625], "text": "Save The Duck Women's Hooded Jacket Cool Beige Size 3", "id": "index_product_header_Save The Duck Women's Hooded Jacket Cool Beige Size 3"}
+{"tagname": "img", "offset": [1565.4166259765625, 13939.3837890625], "text": "", "id": "img_product_262380"}
+{"tagname": "a", "offset": [1411.8333740234375, 14019.3837890625], "text": "Show product", "id": "btn_product_262380"}
+{"tagname": "h6", "offset": [333.5, 14119.3837890625], "text": "Save The Duck Women's Hooded Jacket Navy Blue Size 0", "id": "index_product_header_Save The Duck Women's Hooded Jacket Navy Blue Size 0"}
+{"tagname": "img", "offset": [507.08331298828125, 14197.3837890625], "text": "", "id": "img_product_262382"}
+{"tagname": "a", "offset": [353.5, 14277.3837890625], "text": "Show product", "id": "btn_product_262382"}
+{"tagname": "h6", "offset": [862.6666870117188, 14119.3837890625], "text": "Save The Duck Women's Hooded Jacket Navy Blue Size 1", "id": "index_product_header_Save The Duck Women's Hooded Jacket Navy Blue Size 1"}
+{"tagname": "img", "offset": [1036.25, 14197.3837890625], "text": "", "id": "img_product_262383"}
+{"tagname": "a", "offset": [882.6666870117188, 14277.3837890625], "text": "Show product", "id": "btn_product_262383"}
+{"tagname": "h6", "offset": [1391.8333740234375, 14119.3837890625], "text": "Save The Duck Women's Hooded Jacket Navy Blue Size 2", "id": "index_product_header_Save The Duck Women's Hooded Jacket Navy Blue Size 2"}
+{"tagname": "img", "offset": [1565.4166259765625, 14197.3837890625], "text": "", "id": "img_product_262384"}
+{"tagname": "a", "offset": [1411.8333740234375, 14277.3837890625], "text": "Show product", "id": "btn_product_262384"}
+{"tagname": "h6", "offset": [333.5, 14377.3837890625], "text": "Save The Duck Women's Hooded Jacket Navy Blue Size 4", "id": "index_product_header_Save The Duck Women's Hooded Jacket Navy Blue Size 4"}
+{"tagname": "img", "offset": [507.08331298828125, 14455.3837890625], "text": "", "id": "img_product_262386"}
+{"tagname": "a", "offset": [353.5, 14535.3837890625], "text": "Show product", "id": "btn_product_262386"}
+{"tagname": "h6", "offset": [862.6666870117188, 14377.3837890625], "text": "Save The Duck Women's Hooded Jacket Caper Green Size 1", "id": "index_product_header_Save The Duck Women's Hooded Jacket Caper Green Size 1"}
+{"tagname": "img", "offset": [1036.25, 14455.3837890625], "text": "", "id": "img_product_262387"}
+{"tagname": "a", "offset": [882.6666870117188, 14535.3837890625], "text": "Show product", "id": "btn_product_262387"}
+{"tagname": "h6", "offset": [1391.8333740234375, 14377.3837890625], "text": "Save The Duck Women's Hooded Jacket Caper Green Size 2", "id": "index_product_header_Save The Duck Women's Hooded Jacket Caper Green Size 2"}
+{"tagname": "img", "offset": [1565.4166259765625, 14455.3837890625], "text": "", "id": "img_product_262388"}
+{"tagname": "a", "offset": [1411.8333740234375, 14535.3837890625], "text": "Show product", "id": "btn_product_262388"}
+{"tagname": "h6", "offset": [333.5, 14635.3837890625], "text": "Save The Duck Women's Hooded Jacket Caper Green Size 4", "id": "index_product_header_Save The Duck Women's Hooded Jacket Caper Green Size 4"}
+{"tagname": "img", "offset": [507.08331298828125, 14713.3837890625], "text": "", "id": "img_product_262390"}
+{"tagname": "a", "offset": [353.5, 14793.3837890625], "text": "Show product", "id": "btn_product_262390"}
+{"tagname": "h6", "offset": [862.6666870117188, 14635.3837890625], "text": "Save The Duck Women's Hooded Jacket Wave Blue Size 1", "id": "index_product_header_Save The Duck Women's Hooded Jacket Wave Blue Size 1"}
+{"tagname": "img", "offset": [1036.25, 14713.3837890625], "text": "", "id": "img_product_262391"}
+{"tagname": "a", "offset": [882.6666870117188, 14793.3837890625], "text": "Show product", "id": "btn_product_262391"}
+{"tagname": "h6", "offset": [1391.8333740234375, 14635.3837890625], "text": "Save The Duck Women's Hooded Jacket Wave Blue Size 2", "id": "index_product_header_Save The Duck Women's Hooded Jacket Wave Blue Size 2"}
+{"tagname": "img", "offset": [1565.4166259765625, 14713.3837890625], "text": "", "id": "img_product_262392"}
+{"tagname": "a", "offset": [1411.8333740234375, 14793.3837890625], "text": "Show product", "id": "btn_product_262392"}
+{"tagname": "h6", "offset": [333.5, 14893.3837890625], "text": "Save The Duck Women's Hooded Jacket Wave Blue Size 4", "id": "index_product_header_Save The Duck Women's Hooded Jacket Wave Blue Size 4"}
+{"tagname": "img", "offset": [507.08331298828125, 14971.3837890625], "text": "", "id": "img_product_262394"}
+{"tagname": "a", "offset": [353.5, 15051.3837890625], "text": "Show product", "id": "btn_product_262394"}
+{"tagname": "h6", "offset": [862.6666870117188, 14893.3837890625], "text": "Save The Duck Women's Lightweight Jacket Powder Pink Size 0", "id": "index_product_header_Save The Duck Women's Lightweight Jacket Powder Pink Size 0"}
+{"tagname": "img", "offset": [1036.25, 14990.5830078125], "text": "", "id": "img_product_262395"}
+{"tagname": "a", "offset": [882.6666870117188, 15070.5830078125], "text": "Show product", "id": "btn_product_262395"}
+{"tagname": "h6", "offset": [1391.8333740234375, 14893.3837890625], "text": "Save The Duck Women's Lightweight Jacket Powder Pink Size 1", "id": "index_product_header_Save The Duck Women's Lightweight Jacket Powder Pink Size 1"}
+{"tagname": "img", "offset": [1565.4166259765625, 14990.5830078125], "text": "", "id": "img_product_262396"}
+{"tagname": "a", "offset": [1411.8333740234375, 15070.5830078125], "text": "Show product", "id": "btn_product_262396"}
+{"tagname": "h6", "offset": [333.5, 15170.5830078125], "text": "Save The Duck Women's Lightweight Jacket Powder Pink Size 2", "id": "index_product_header_Save The Duck Women's Lightweight Jacket Powder Pink Size 2"}
+{"tagname": "img", "offset": [507.08331298828125, 15267.783203125], "text": "", "id": "img_product_262397"}
+{"tagname": "a", "offset": [353.5, 15347.783203125], "text": "Show product", "id": "btn_product_262397"}
+{"tagname": "h6", "offset": [862.6666870117188, 15170.5830078125], "text": "Save The Duck Women's Lightweight Jacket Powder Pink Size 3", "id": "index_product_header_Save The Duck Women's Lightweight Jacket Powder Pink Size 3"}
+{"tagname": "img", "offset": [1036.25, 15267.783203125], "text": "", "id": "img_product_262398"}
+{"tagname": "a", "offset": [882.6666870117188, 15347.783203125], "text": "Show product", "id": "btn_product_262398"}
+{"tagname": "h6", "offset": [1391.8333740234375, 15170.5830078125], "text": "Save The Duck Women's Lightweight Jacket Powder Pink Size 4", "id": "index_product_header_Save The Duck Women's Lightweight Jacket Powder Pink Size 4"}
+{"tagname": "img", "offset": [1565.4166259765625, 15267.783203125], "text": "", "id": "img_product_262399"}
+{"tagname": "a", "offset": [1411.8333740234375, 15347.783203125], "text": "Show product", "id": "btn_product_262399"}
+{"tagname": "h6", "offset": [333.5, 15447.783203125], "text": "Save The Duck Girl's Hooded Jacket Blush Pink Size 8yrs", "id": "index_product_header_Save The Duck Girl's Hooded Jacket Blush Pink Size 8yrs"}
+{"tagname": "img", "offset": [507.08331298828125, 15525.783203125], "text": "", "id": "img_product_262402"}
+{"tagname": "a", "offset": [353.5, 15605.783203125], "text": "Show product", "id": "btn_product_262402"}
+{"tagname": "h6", "offset": [862.6666870117188, 15447.783203125], "text": "Save The Duck Men's Hooded Down Jacket Navy Blue Size XS", "id": "index_product_header_Save The Duck Men's Hooded Down Jacket Navy Blue Size XS"}
+{"tagname": "img", "offset": [1036.25, 15544.9833984375], "text": "", "id": "img_product_262403"}
+{"tagname": "a", "offset": [882.6666870117188, 15624.9833984375], "text": "Show product", "id": "btn_product_262403"}
+{"tagname": "h6", "offset": [1391.8333740234375, 15447.783203125], "text": "Save The Duck Men's Hooded Down Jacket Navy Blue Size S", "id": "index_product_header_Save The Duck Men's Hooded Down Jacket Navy Blue Size S"}
+{"tagname": "img", "offset": [1565.4166259765625, 15525.783203125], "text": "", "id": "img_product_262404"}
+{"tagname": "a", "offset": [1411.8333740234375, 15605.783203125], "text": "Show product", "id": "btn_product_262404"}
+{"tagname": "h6", "offset": [333.5, 15724.9833984375], "text": "Save The Duck Men's Hooded Down Jacket Navy Blue Size M", "id": "index_product_header_Save The Duck Men's Hooded Down Jacket Navy Blue Size M"}
+{"tagname": "img", "offset": [507.08331298828125, 15802.9833984375], "text": "", "id": "img_product_262405"}
+{"tagname": "a", "offset": [353.5, 15882.9833984375], "text": "Show product", "id": "btn_product_262405"}
+{"tagname": "h6", "offset": [862.6666870117188, 15724.9833984375], "text": "Save The Duck Men's Hooded Down Jacket Navy Blue Size L", "id": "index_product_header_Save The Duck Men's Hooded Down Jacket Navy Blue Size L"}
+{"tagname": "img", "offset": [1036.25, 15802.9833984375], "text": "", "id": "img_product_262406"}
+{"tagname": "a", "offset": [882.6666870117188, 15882.9833984375], "text": "Show product", "id": "btn_product_262406"}
+{"tagname": "h6", "offset": [1391.8333740234375, 15724.9833984375], "text": "Save The Duck Men's Hooded Down Jacket Crystal Grey Size XS", "id": "index_product_header_Save The Duck Men's Hooded Down Jacket Crystal Grey Size XS"}
+{"tagname": "img", "offset": [1565.4166259765625, 15822.18359375], "text": "", "id": "img_product_262407"}
+{"tagname": "a", "offset": [1411.8333740234375, 15902.18359375], "text": "Show product", "id": "btn_product_262407"}
+{"tagname": "h6", "offset": [333.5, 16002.18359375], "text": "Save The Duck Men's Hooded Down Jacket Crystal Grey Size S", "id": "index_product_header_Save The Duck Men's Hooded Down Jacket Crystal Grey Size S"}
+{"tagname": "img", "offset": [507.08331298828125, 16099.3837890625], "text": "", "id": "img_product_262408"}
+{"tagname": "a", "offset": [353.5, 16179.3837890625], "text": "Show product", "id": "btn_product_262408"}
+{"tagname": "h6", "offset": [862.6666870117188, 16002.18359375], "text": "Save The Duck Men's Hooded Down Jacket Crystal Grey Size M", "id": "index_product_header_Save The Duck Men's Hooded Down Jacket Crystal Grey Size M"}
+{"tagname": "img", "offset": [1036.25, 16099.3837890625], "text": "", "id": "img_product_262409"}
+{"tagname": "a", "offset": [882.6666870117188, 16179.3837890625], "text": "Show product", "id": "btn_product_262409"}
+{"tagname": "h6", "offset": [1391.8333740234375, 16002.18359375], "text": "Save The Duck Men's Hooded Down Jacket Crystal Grey Size L", "id": "index_product_header_Save The Duck Men's Hooded Down Jacket Crystal Grey Size L"}
+{"tagname": "img", "offset": [1565.4166259765625, 16099.3837890625], "text": "", "id": "img_product_262410"}
+{"tagname": "a", "offset": [1411.8333740234375, 16179.3837890625], "text": "Show product", "id": "btn_product_262410"}
+{"tagname": "h6", "offset": [333.5, 16279.3837890625], "text": "Save The Duck Men's Hooded Down Jacket Seaweed Green Size XS", "id": "index_product_header_Save The Duck Men's Hooded Down Jacket Seaweed Green Size XS"}
+{"tagname": "img", "offset": [507.08331298828125, 16376.5830078125], "text": "", "id": "img_product_262411"}
+{"tagname": "a", "offset": [353.5, 16456.583984375], "text": "Show product", "id": "btn_product_262411"}
+{"tagname": "h6", "offset": [862.6666870117188, 16279.3837890625], "text": "Save The Duck Men's Hooded Down Jacket Seaweed Green Size S", "id": "index_product_header_Save The Duck Men's Hooded Down Jacket Seaweed Green Size S"}
+{"tagname": "img", "offset": [1036.25, 16376.5830078125], "text": "", "id": "img_product_262412"}
+{"tagname": "a", "offset": [882.6666870117188, 16456.583984375], "text": "Show product", "id": "btn_product_262412"}
+{"tagname": "h6", "offset": [1391.8333740234375, 16279.3837890625], "text": "Save The Duck Men's Hooded Down Jacket Seaweed Green Size M", "id": "index_product_header_Save The Duck Men's Hooded Down Jacket Seaweed Green Size M"}
+{"tagname": "img", "offset": [1565.4166259765625, 16376.5830078125], "text": "", "id": "img_product_262413"}
+{"tagname": "a", "offset": [1411.8333740234375, 16456.583984375], "text": "Show product", "id": "btn_product_262413"}
+{"tagname": "h6", "offset": [333.5, 16556.583984375], "text": "Save The Duck Men's Hooded Down Jacket Seaweed Green Size L", "id": "index_product_header_Save The Duck Men's Hooded Down Jacket Seaweed Green Size L"}
+{"tagname": "img", "offset": [507.08331298828125, 16653.783203125], "text": "", "id": "img_product_262414"}
+{"tagname": "a", "offset": [353.5, 16733.783203125], "text": "Show product", "id": "btn_product_262414"}
+{"tagname": "h6", "offset": [862.6666870117188, 16556.583984375], "text": "Save The Duck Men's Jacket Jungle Green Size S", "id": "index_product_header_Save The Duck Men's Jacket Jungle Green Size S"}
+{"tagname": "img", "offset": [1036.25, 16634.583984375], "text": "", "id": "img_product_262415"}
+{"tagname": "a", "offset": [882.6666870117188, 16714.583984375], "text": "Show product", "id": "btn_product_262415"}
+{"tagname": "h6", "offset": [1391.8333740234375, 16556.583984375], "text": "Save The Duck Men's Jacket Jungle Green Size M", "id": "index_product_header_Save The Duck Men's Jacket Jungle Green Size M"}
+{"tagname": "img", "offset": [1565.4166259765625, 16634.583984375], "text": "", "id": "img_product_262416"}
+{"tagname": "a", "offset": [1411.8333740234375, 16714.583984375], "text": "Show product", "id": "btn_product_262416"}
+{"tagname": "h6", "offset": [333.5, 16833.783203125], "text": "Save The Duck Men's Jacket Jungle Green Size L", "id": "index_product_header_Save The Duck Men's Jacket Jungle Green Size L"}
+{"tagname": "img", "offset": [507.08331298828125, 16911.783203125], "text": "", "id": "img_product_262417"}
+{"tagname": "a", "offset": [353.5, 16991.783203125], "text": "Show product", "id": "btn_product_262417"}
+{"tagname": "h6", "offset": [862.6666870117188, 16833.783203125], "text": "Save The Duck Men's Jacket Cool Beige Size S", "id": "index_product_header_Save The Duck Men's Jacket Cool Beige Size S"}
+{"tagname": "img", "offset": [1036.25, 16911.783203125], "text": "", "id": "img_product_262418"}
+{"tagname": "a", "offset": [882.6666870117188, 16991.783203125], "text": "Show product", "id": "btn_product_262418"}
+{"tagname": "h6", "offset": [1391.8333740234375, 16833.783203125], "text": "Save The Duck Men's Jacket Cool Beige Size M", "id": "index_product_header_Save The Duck Men's Jacket Cool Beige Size M"}
+{"tagname": "img", "offset": [1565.4166259765625, 16911.783203125], "text": "", "id": "img_product_262419"}
+{"tagname": "a", "offset": [1411.8333740234375, 16991.783203125], "text": "Show product", "id": "btn_product_262419"}
+{"tagname": "h6", "offset": [333.5, 17091.783203125], "text": "Save The Duck Men's Jacket Cool Beige Size L", "id": "index_product_header_Save The Duck Men's Jacket Cool Beige Size L"}
+{"tagname": "img", "offset": [507.08331298828125, 17169.783203125], "text": "", "id": "img_product_262420"}
+{"tagname": "a", "offset": [353.5, 17249.783203125], "text": "Show product", "id": "btn_product_262420"}
+{"tagname": "h6", "offset": [862.6666870117188, 17091.783203125], "text": "Save The Duck Men's Jacket Snorkel Blue Size M", "id": "index_product_header_Save The Duck Men's Jacket Snorkel Blue Size M"}
+{"tagname": "img", "offset": [1036.25, 17169.783203125], "text": "", "id": "img_product_262422"}
+{"tagname": "a", "offset": [882.6666870117188, 17249.783203125], "text": "Show product", "id": "btn_product_262422"}
+{"tagname": "h6", "offset": [1391.8333740234375, 17091.783203125], "text": "Save The Duck Men's Jacket Snorkel Blue Size L", "id": "index_product_header_Save The Duck Men's Jacket Snorkel Blue Size L"}
+{"tagname": "img", "offset": [1565.4166259765625, 17169.783203125], "text": "", "id": "img_product_262423"}
+{"tagname": "a", "offset": [1411.8333740234375, 17249.783203125], "text": "Show product", "id": "btn_product_262423"}
+{"tagname": "h6", "offset": [333.5, 17349.783203125], "text": "Save The Duck Men's Jacket Dusty Blue Size S", "id": "index_product_header_Save The Duck Men's Jacket Dusty Blue Size S"}
+{"tagname": "img", "offset": [507.08331298828125, 17427.783203125], "text": "", "id": "img_product_262424"}
+{"tagname": "a", "offset": [353.5, 17507.783203125], "text": "Show product", "id": "btn_product_262424"}
+{"tagname": "h6", "offset": [862.6666870117188, 17349.783203125], "text": "Save The Duck Men's Jacket Dusty Blue Size M", "id": "index_product_header_Save The Duck Men's Jacket Dusty Blue Size M"}
+{"tagname": "img", "offset": [1036.25, 17427.783203125], "text": "", "id": "img_product_262425"}
+{"tagname": "a", "offset": [882.6666870117188, 17507.783203125], "text": "Show product", "id": "btn_product_262425"}
+{"tagname": "h6", "offset": [1391.8333740234375, 17349.783203125], "text": "Save The Duck Men's Jacket Dusty Blue Size L", "id": "index_product_header_Save The Duck Men's Jacket Dusty Blue Size L"}
+{"tagname": "img", "offset": [1565.4166259765625, 17427.783203125], "text": "", "id": "img_product_262426"}
+{"tagname": "a", "offset": [1411.8333740234375, 17507.783203125], "text": "Show product", "id": "btn_product_262426"}
+{"tagname": "h6", "offset": [333.5, 17607.783203125], "text": "Save The Duck Men's Jacket Blue Black Size S", "id": "index_product_header_Save The Duck Men's Jacket Blue Black Size S"}
+{"tagname": "img", "offset": [507.08331298828125, 17685.783203125], "text": "", "id": "img_product_262427"}
+{"tagname": "a", "offset": [353.5, 17765.783203125], "text": "Show product", "id": "btn_product_262427"}
+{"tagname": "h6", "offset": [862.6666870117188, 17607.783203125], "text": "Save The Duck Men's Jacket Blue Black Size L", "id": "index_product_header_Save The Duck Men's Jacket Blue Black Size L"}
+{"tagname": "img", "offset": [1036.25, 17685.783203125], "text": "", "id": "img_product_262429"}
+{"tagname": "a", "offset": [882.6666870117188, 17765.783203125], "text": "Show product", "id": "btn_product_262429"}
+{"tagname": "h6", "offset": [1391.8333740234375, 17607.783203125], "text": "Save The Duck Men's Jacket Evening Blue Size S", "id": "index_product_header_Save The Duck Men's Jacket Evening Blue Size S"}
+{"tagname": "img", "offset": [1565.4166259765625, 17685.783203125], "text": "", "id": "img_product_262430"}
+{"tagname": "a", "offset": [1411.8333740234375, 17765.783203125], "text": "Show product", "id": "btn_product_262430"}
+{"tagname": "h6", "offset": [333.5, 17865.783203125], "text": "Save The Duck Men's Jacket Evening Blue Size M", "id": "index_product_header_Save The Duck Men's Jacket Evening Blue Size M"}
+{"tagname": "img", "offset": [507.08331298828125, 17943.783203125], "text": "", "id": "img_product_262431"}
+{"tagname": "a", "offset": [353.5, 18023.783203125], "text": "Show product", "id": "btn_product_262431"}
+{"tagname": "h6", "offset": [862.6666870117188, 17865.783203125], "text": "Save The Duck Men's Jacket Evening Blue Size L", "id": "index_product_header_Save The Duck Men's Jacket Evening Blue Size L"}
+{"tagname": "img", "offset": [1036.25, 17943.783203125], "text": "", "id": "img_product_262432"}
+{"tagname": "a", "offset": [882.6666870117188, 18023.783203125], "text": "Show product", "id": "btn_product_262432"}
+{"tagname": "h6", "offset": [1391.8333740234375, 17865.783203125], "text": "Save The Duck Men's Jacket Dusty Olive Size XS", "id": "index_product_header_Save The Duck Men's Jacket Dusty Olive Size XS"}
+{"tagname": "img", "offset": [1565.4166259765625, 17943.783203125], "text": "", "id": "img_product_262433"}
+{"tagname": "a", "offset": [1411.8333740234375, 18023.783203125], "text": "Show product", "id": "btn_product_262433"}
+{"tagname": "h6", "offset": [333.5, 18123.783203125], "text": "Save The Duck Men's Jacket Dusty Olive Size S", "id": "index_product_header_Save The Duck Men's Jacket Dusty Olive Size S"}
+{"tagname": "img", "offset": [507.08331298828125, 18201.783203125], "text": "", "id": "img_product_262434"}
+{"tagname": "a", "offset": [353.5, 18281.783203125], "text": "Show product", "id": "btn_product_262434"}
+{"tagname": "h6", "offset": [862.6666870117188, 18123.783203125], "text": "Save The Duck Men's Jacket Dusty Olive Size M", "id": "index_product_header_Save The Duck Men's Jacket Dusty Olive Size M"}
+{"tagname": "img", "offset": [1036.25, 18201.783203125], "text": "", "id": "img_product_262435"}
+{"tagname": "a", "offset": [882.6666870117188, 18281.783203125], "text": "Show product", "id": "btn_product_262435"}
+{"tagname": "h6", "offset": [1391.8333740234375, 18123.783203125], "text": "Save The Duck Men's Jacket Dusty Olive Size L", "id": "index_product_header_Save The Duck Men's Jacket Dusty Olive Size L"}
+{"tagname": "img", "offset": [1565.4166259765625, 18201.783203125], "text": "", "id": "img_product_262436"}
+{"tagname": "a", "offset": [1411.8333740234375, 18281.783203125], "text": "Show product", "id": "btn_product_262436"}
+{"tagname": "h6", "offset": [333.5, 18381.783203125], "text": "Save The Duck Men's Jacket Navy Blue Size XS", "id": "index_product_header_Save The Duck Men's Jacket Navy Blue Size XS"}
+{"tagname": "img", "offset": [507.08331298828125, 18459.783203125], "text": "", "id": "img_product_262437"}
+{"tagname": "a", "offset": [353.5, 18539.783203125], "text": "Show product", "id": "btn_product_262437"}
+{"tagname": "h6", "offset": [862.6666870117188, 18381.783203125], "text": "Save The Duck Men's Jacket Navy Blue Size S", "id": "index_product_header_Save The Duck Men's Jacket Navy Blue Size S"}
+{"tagname": "img", "offset": [1036.25, 18459.783203125], "text": "", "id": "img_product_262438"}
+{"tagname": "a", "offset": [882.6666870117188, 18539.783203125], "text": "Show product", "id": "btn_product_262438"}
+{"tagname": "h6", "offset": [1391.8333740234375, 18381.783203125], "text": "Save The Duck Men's Jacket Navy Blue Size M", "id": "index_product_header_Save The Duck Men's Jacket Navy Blue Size M"}
+{"tagname": "img", "offset": [1565.4166259765625, 18459.783203125], "text": "", "id": "img_product_262439"}
+{"tagname": "a", "offset": [1411.8333740234375, 18539.783203125], "text": "Show product", "id": "btn_product_262439"}
+{"tagname": "h6", "offset": [333.5, 18639.783203125], "text": "Save The Duck Boy's Jacket Snorkel Blue Size 6yrs", "id": "index_product_header_Save The Duck Boy's Jacket Snorkel Blue Size 6yrs"}
+{"tagname": "img", "offset": [507.08331298828125, 18717.783203125], "text": "", "id": "img_product_262442"}
+{"tagname": "a", "offset": [353.5, 18797.783203125], "text": "Show product", "id": "btn_product_262442"}
+{"tagname": "h6", "offset": [862.6666870117188, 18639.783203125], "text": "Samsonite Red Reny Backpack (Black)", "id": "index_product_header_Samsonite Red Reny Backpack (Black)"}
+{"tagname": "img", "offset": [1036.25, 18717.783203125], "text": "", "id": "img_product_262660"}
+{"tagname": "a", "offset": [882.6666870117188, 18797.783203125], "text": "Show product", "id": "btn_product_262660"}
+{"tagname": "h6", "offset": [1391.8333740234375, 18639.783203125], "text": "Samsonite Vangarde Slim Day Pack (Black)", "id": "index_product_header_Samsonite Vangarde Slim Day Pack (Black)"}
+{"tagname": "img", "offset": [1565.4166259765625, 18717.783203125], "text": "", "id": "img_product_262662"}
+{"tagname": "a", "offset": [1411.8333740234375, 18797.783203125], "text": "Show product", "id": "btn_product_262662"}
+{"tagname": "h6", "offset": [333.5, 18897.783203125], "text": "Samsonite Vangarde Sports Pack (Black)", "id": "index_product_header_Samsonite Vangarde Sports Pack (Black)"}
+{"tagname": "img", "offset": [507.08331298828125, 18975.783203125], "text": "", "id": "img_product_262663"}
+{"tagname": "a", "offset": [353.5, 19055.783203125], "text": "Show product", "id": "btn_product_262663"}
+{"tagname": "h6", "offset": [862.6666870117188, 18897.783203125], "text": "Apple Smart Keyboard - Ipad(7Th Gen) & Ipad Air(3Rd Gen)-Eng", "id": "index_product_header_Apple Smart Keyboard - Ipad(7Th Gen) & Ipad Air(3Rd Gen)-Eng"}
+{"tagname": "img", "offset": [1036.25, 18994.982421875], "text": "", "id": "img_product_K300058"}
+{"tagname": "a", "offset": [882.6666870117188, 19074.982421875], "text": "Show product", "id": "btn_product_K300058"}
+{"tagname": "h6", "offset": [1391.8333740234375, 18897.783203125], "text": "Applecare+ For Iphone\u00a0Se", "id": "index_product_header_Applecare+ For Iphone\u00a0Se"}
+{"tagname": "img", "offset": [1565.4166259765625, 18975.783203125], "text": "", "id": "img_product_K300267"}
+{"tagname": "a", "offset": [1411.8333740234375, 19055.783203125], "text": "Show product", "id": "btn_product_K300267"}
+{"tagname": "h6", "offset": [333.5, 19174.982421875], "text": "Apple Magic Keyboard For 11-Inch Ipad Pro(2Nd Gen) - Int Eng", "id": "index_product_header_Apple Magic Keyboard For 11-Inch Ipad Pro(2Nd Gen) - Int Eng"}
+{"tagname": "img", "offset": [507.08331298828125, 19272.18359375], "text": "", "id": "img_product_K300349"}
+{"tagname": "a", "offset": [353.5, 19352.18359375], "text": "Show product", "id": "btn_product_K300349"}
+{"tagname": "h6", "offset": [862.6666870117188, 19174.982421875], "text": "Lush Addiction Mystic Knot Earrings Made With Crystals From", "id": "index_product_header_Lush Addiction Mystic Knot Earrings Made With Crystals From"}
+{"tagname": "img", "offset": [1036.25, 19272.18359375], "text": "", "id": "img_product_K300413"}
+{"tagname": "a", "offset": [882.6666870117188, 19352.18359375], "text": "Show product", "id": "btn_product_K300413"}
+{"tagname": "h6", "offset": [1391.8333740234375, 19174.982421875], "text": "Lush Addiction Angular Hoop Earrings Made With Crystals From", "id": "index_product_header_Lush Addiction Angular Hoop Earrings Made With Crystals From"}
+{"tagname": "img", "offset": [1565.4166259765625, 19272.18359375], "text": "", "id": "img_product_K300415"}
+{"tagname": "a", "offset": [1411.8333740234375, 19352.18359375], "text": "Show product", "id": "btn_product_K300415"}
+{"tagname": "h6", "offset": [333.5, 19452.18359375], "text": "Lush Addiction Allure Necklace Made With Pearls And Crystals", "id": "index_product_header_Lush Addiction Allure Necklace Made With Pearls And Crystals"}
+{"tagname": "img", "offset": [507.08331298828125, 19549.3828125], "text": "", "id": "img_product_K300417"}
+{"tagname": "a", "offset": [353.5, 19629.3828125], "text": "Show product", "id": "btn_product_K300417"}
+{"tagname": "h6", "offset": [862.6666870117188, 19452.18359375], "text": "Save The Duck Short Quilted Jacket Twilight Blue Size 1", "id": "index_product_header_Save The Duck Short Quilted Jacket Twilight Blue Size 1"}
+{"tagname": "img", "offset": [1036.25, 19516.3828125], "text": "", "id": "img_product_261179CF"}
+{"tagname": "a", "offset": [882.6666870117188, 19777.650390625], "text": "Show product", "id": "btn_product_261179CF"}
+{"tagname": "h6", "offset": [1391.8333740234375, 19452.18359375], "text": "Save The Duck Short Quilted Jacket Twilight Blue Size S", "id": "index_product_header_Save The Duck Short Quilted Jacket Twilight Blue Size S"}
+{"tagname": "img", "offset": [1565.4166259765625, 19516.3828125], "text": "", "id": "img_product_261203CF"}
+{"tagname": "a", "offset": [1411.8333740234375, 19777.650390625], "text": "Show product", "id": "btn_product_261203CF"}
+{"tagname": "h6", "offset": [333.5, 19877.650390625], "text": "Save The Duck Parker Navy Blue Size S", "id": "index_product_header_Save The Duck Parker Navy Blue Size S"}
+{"tagname": "img", "offset": [507.08331298828125, 19941.849609375], "text": "", "id": "img_product_261218CF"}
+{"tagname": "a", "offset": [353.5, 20203.1171875], "text": "Show product", "id": "btn_product_261218CF"}
+{"tagname": "h6", "offset": [862.6666870117188, 19877.650390625], "text": "Save The Duck Women'S Hooded Jacket Crystal Grey Size 1", "id": "index_product_header_Save The Duck Women'S Hooded Jacket Crystal Grey Size 1"}
+{"tagname": "img", "offset": [1036.25, 19941.849609375], "text": "", "id": "img_product_262353CF"}
+{"tagname": "a", "offset": [882.6666870117188, 20203.1171875], "text": "Show product", "id": "btn_product_262353CF"}
+{"tagname": "h6", "offset": [1391.8333740234375, 19877.650390625], "text": "Save The Duck Women'S Lightweight Jacket Crystal Grey Size 1", "id": "index_product_header_Save The Duck Women'S Lightweight Jacket Crystal Grey Size 1"}
+{"tagname": "img", "offset": [1565.4166259765625, 19974.849609375], "text": "", "id": "img_product_262361CF"}
+{"tagname": "a", "offset": [1411.8333740234375, 20054.849609375], "text": "Show product", "id": "btn_product_262361CF"}
+{"tagname": "h6", "offset": [333.5, 20303.1171875], "text": "Save The Duck Women'S Lightweight Jacket Powder Pink Size 0", "id": "index_product_header_Save The Duck Women'S Lightweight Jacket Powder Pink Size 0"}
+{"tagname": "img", "offset": [507.08331298828125, 20400.31640625], "text": "", "id": "img_product_262395CF"}
+{"tagname": "a", "offset": [353.5, 20480.31640625], "text": "Show product", "id": "btn_product_262395CF"}
+{"tagname": "h6", "offset": [862.6666870117188, 20303.1171875], "text": "Save The Duck Men'S Hooded Down Jacket Navy Blue Size Xs", "id": "index_product_header_Save The Duck Men'S Hooded Down Jacket Navy Blue Size Xs"}
+{"tagname": "img", "offset": [1036.25, 20400.31640625], "text": "", "id": "img_product_262403CF"}
+{"tagname": "a", "offset": [882.6666870117188, 20480.31640625], "text": "Show product", "id": "btn_product_262403CF"}
+{"tagname": "h6", "offset": [1391.8333740234375, 20303.1171875], "text": "Save The Duck Men'S Jacket Jungle Green Size S", "id": "index_product_header_Save The Duck Men'S Jacket Jungle Green Size S"}
+{"tagname": "img", "offset": [1565.4166259765625, 20381.1171875], "text": "", "id": "img_product_262415CF"}
+{"tagname": "a", "offset": [1411.8333740234375, 20461.1171875], "text": "Show product", "id": "btn_product_262415CF"}
+{"tagname": "h6", "offset": [333.5, 20580.31640625], "text": "Save The Duck Men'S Jacket Navy Blue Size Xs", "id": "index_product_header_Save The Duck Men'S Jacket Navy Blue Size Xs"}
+{"tagname": "img", "offset": [507.08331298828125, 20658.31640625], "text": "", "id": "img_product_262437CF"}
+{"tagname": "a", "offset": [353.5, 20738.31640625], "text": "Show product", "id": "btn_product_262437CF"}
+{"tagname": "h6", "offset": [862.6666870117188, 20580.31640625], "text": "Scene Shang Eggshell Smart Diffuser - White", "id": "index_product_header_Scene Shang Eggshell Smart Diffuser - White"}
+{"tagname": "img", "offset": [1036.25, 20658.31640625], "text": "", "id": "img_product_K300813"}
+{"tagname": "a", "offset": [882.6666870117188, 20738.31640625], "text": "Show product", "id": "btn_product_K300813"}
+{"tagname": "h6", "offset": [1391.8333740234375, 20580.31640625], "text": "Samsonite Karissa 2.0 Pouch+Shoulder M (Black)", "id": "index_product_header_Samsonite Karissa 2.0 Pouch+Shoulder M (Black)"}
+{"tagname": "img", "offset": [1565.4166259765625, 20658.31640625], "text": "", "id": "img_product_K300985"}
+{"tagname": "a", "offset": [1411.8333740234375, 20738.31640625], "text": "Show product", "id": "btn_product_K300985"}
+{"tagname": "h6", "offset": [333.5, 20838.31640625], "text": "Samsonite Karissa 2.0 Backpack S (Black)", "id": "index_product_header_Samsonite Karissa 2.0 Backpack S (Black)"}
+{"tagname": "img", "offset": [507.08331298828125, 20916.31640625], "text": "", "id": "img_product_K300986"}
+{"tagname": "a", "offset": [353.5, 20996.31640625], "text": "Show product", "id": "btn_product_K300986"}
+{"tagname": "h6", "offset": [862.6666870117188, 20838.31640625], "text": "Samsonite Karissa 2.0 Backpack 3Pkt 1 Buckle (Black)", "id": "index_product_header_Samsonite Karissa 2.0 Backpack 3Pkt 1 Buckle (Black)"}
+{"tagname": "img", "offset": [1036.25, 20916.31640625], "text": "", "id": "img_product_K300987"}
+{"tagname": "a", "offset": [882.6666870117188, 20996.31640625], "text": "Show product", "id": "btn_product_K300987"}
+{"tagname": "h6", "offset": [1391.8333740234375, 20838.31640625], "text": "Samsonite Leah Crossbag Bag (Black)", "id": "index_product_header_Samsonite Leah Crossbag Bag (Black)"}
+{"tagname": "img", "offset": [1565.4166259765625, 20916.31640625], "text": "", "id": "img_product_K300988"}
+{"tagname": "a", "offset": [1411.8333740234375, 20996.31640625], "text": "Show product", "id": "btn_product_K300988"}
+{"tagname": "h6", "offset": [333.5, 21096.31640625], "text": "Samsonite Leah Backpack (Black)", "id": "index_product_header_Samsonite Leah Backpack (Black)"}
+{"tagname": "img", "offset": [507.08331298828125, 21174.31640625], "text": "", "id": "img_product_K300989"}
+{"tagname": "a", "offset": [353.5, 21254.31640625], "text": "Show product", "id": "btn_product_K300989"}
+{"tagname": "h6", "offset": [862.6666870117188, 21096.31640625], "text": "Samsonite Leah 14.1\u201d Laptop Backpack (Black)", "id": "index_product_header_Samsonite Leah 14.1\u201d Laptop Backpack (Black)"}
+{"tagname": "img", "offset": [1036.25, 21174.31640625], "text": "", "id": "img_product_K300990"}
+{"tagname": "a", "offset": [882.6666870117188, 21254.31640625], "text": "Show product", "id": "btn_product_K300990"}
+{"tagname": "h6", "offset": [1391.8333740234375, 21096.31640625], "text": "Samsonite Yourban Backpack 4Pkt+Flap 14.1\" (Black)", "id": "index_product_header_Samsonite Yourban Backpack 4Pkt+Flap 14.1\" (Black)"}
+{"tagname": "img", "offset": [1565.4166259765625, 21174.31640625], "text": "", "id": "img_product_K300991"}
+{"tagname": "a", "offset": [1411.8333740234375, 21254.31640625], "text": "Show product", "id": "btn_product_K300991"}
+{"tagname": "h6", "offset": [333.5, 21354.31640625], "text": "Samsonite Yourban Backpack (Black)", "id": "index_product_header_Samsonite Yourban Backpack (Black)"}
+{"tagname": "img", "offset": [507.08331298828125, 21432.31640625], "text": "", "id": "img_product_K300992"}
+{"tagname": "a", "offset": [353.5, 21512.31640625], "text": "Show product", "id": "btn_product_K300992"}
+{"tagname": "h6", "offset": [862.6666870117188, 21354.31640625], "text": "Samsonite Zalia 2.0 Backpack 14.1\" (Black)", "id": "index_product_header_Samsonite Zalia 2.0 Backpack 14.1\" (Black)"}
+{"tagname": "img", "offset": [1036.25, 21432.31640625], "text": "", "id": "img_product_K300994"}
+{"tagname": "a", "offset": [882.6666870117188, 21512.31640625], "text": "Show product", "id": "btn_product_K300994"}
+{"tagname": "h6", "offset": [1391.8333740234375, 21354.31640625], "text": "Apple Smart Keyboard Folio For 12.9-Inch Ipad Pro (4Th Gener", "id": "index_product_header_Apple Smart Keyboard Folio For 12.9-Inch Ipad Pro (4Th Gener"}
+{"tagname": "img", "offset": [1565.4166259765625, 21451.517578125], "text": "", "id": "img_product_K301111"}
+{"tagname": "a", "offset": [1411.8333740234375, 21531.517578125], "text": "Show product", "id": "btn_product_K301111"}
+{"tagname": "h6", "offset": [333.5, 21631.517578125], "text": "Apple Magic Keyboard For 12.9-Inch Ipad Pro (4Th Generation)", "id": "index_product_header_Apple Magic Keyboard For 12.9-Inch Ipad Pro (4Th Generation)"}
+{"tagname": "img", "offset": [507.08331298828125, 21728.716796875], "text": "", "id": "img_product_K301112"}
+{"tagname": "a", "offset": [353.5, 21808.716796875], "text": "Show product", "id": "btn_product_K301112"}
+{"tagname": "h6", "offset": [862.6666870117188, 21631.517578125], "text": "Samsonite Red Fultun Tote (Blue)", "id": "index_product_header_Samsonite Red Fultun Tote (Blue)"}
+{"tagname": "img", "offset": [1036.25, 21709.517578125], "text": "", "id": "img_product_K301406"}
+{"tagname": "a", "offset": [882.6666870117188, 21789.517578125], "text": "Show product", "id": "btn_product_K301406"}
+{"tagname": "h6", "offset": [1391.8333740234375, 21631.517578125], "text": "Samsonite Red Fultun Backpack (Blue)", "id": "index_product_header_Samsonite Red Fultun Backpack (Blue)"}
+{"tagname": "img", "offset": [1565.4166259765625, 21709.517578125], "text": "", "id": "img_product_K301408"}
+{"tagname": "a", "offset": [1411.8333740234375, 21789.517578125], "text": "Show product", "id": "btn_product_K301408"}
+{"tagname": "h6", "offset": [333.5, 21908.716796875], "text": "Samsonite Red Dawone Cross (Black)", "id": "index_product_header_Samsonite Red Dawone Cross (Black)"}
+{"tagname": "img", "offset": [507.08331298828125, 21986.716796875], "text": "", "id": "img_product_K301418"}
+{"tagname": "a", "offset": [353.5, 22066.716796875], "text": "Show product", "id": "btn_product_K301418"}
+{"tagname": "h6", "offset": [862.6666870117188, 21908.716796875], "text": "Samsonite Red Dawone Cross (Navy)", "id": "index_product_header_Samsonite Red Dawone Cross (Navy)"}
+{"tagname": "img", "offset": [1036.25, 21986.716796875], "text": "", "id": "img_product_K301419"}
+{"tagname": "a", "offset": [882.6666870117188, 22066.716796875], "text": "Show product", "id": "btn_product_K301419"}
+{"tagname": "h6", "offset": [1391.8333740234375, 21908.716796875], "text": "Samsonite Red Onse Cross (Black)", "id": "index_product_header_Samsonite Red Onse Cross (Black)"}
+{"tagname": "img", "offset": [1565.4166259765625, 21986.716796875], "text": "", "id": "img_product_K301425"}
+{"tagname": "a", "offset": [1411.8333740234375, 22066.716796875], "text": "Show product", "id": "btn_product_K301425"}
+{"tagname": "h6", "offset": [333.5, 22166.716796875], "text": "Samsonite Red Ho-One Backpack (Black)", "id": "index_product_header_Samsonite Red Ho-One Backpack (Black)"}
+{"tagname": "img", "offset": [507.08331298828125, 22244.716796875], "text": "", "id": "img_product_K301429"}
+{"tagname": "a", "offset": [353.5, 22324.716796875], "text": "Show product", "id": "btn_product_K301429"}
+{"tagname": "h6", "offset": [862.6666870117188, 22166.716796875], "text": "Samsonite Red Ho-One Top-Open Backpack (Black)", "id": "index_product_header_Samsonite Red Ho-One Top-Open Backpack (Black)"}
+{"tagname": "img", "offset": [1036.25, 22244.716796875], "text": "", "id": "img_product_K301430"}
+{"tagname": "a", "offset": [882.6666870117188, 22324.716796875], "text": "Show product", "id": "btn_product_K301430"}
+{"tagname": "h6", "offset": [1391.8333740234375, 22166.716796875], "text": "Samsonite Red Haesol Backpack M (Black)", "id": "index_product_header_Samsonite Red Haesol Backpack M (Black)"}
+{"tagname": "img", "offset": [1565.4166259765625, 22244.716796875], "text": "", "id": "img_product_K301432"}
+{"tagname": "a", "offset": [1411.8333740234375, 22324.716796875], "text": "Show product", "id": "btn_product_K301432"}
+{"tagname": "h6", "offset": [333.5, 22424.716796875], "text": "Samsonite Red Haesol Backpack M (Grey)", "id": "index_product_header_Samsonite Red Haesol Backpack M (Grey)"}
+{"tagname": "img", "offset": [507.08331298828125, 22502.716796875], "text": "", "id": "img_product_K301433"}
+{"tagname": "a", "offset": [353.5, 22582.716796875], "text": "Show product", "id": "btn_product_K301433"}
+{"tagname": "h6", "offset": [862.6666870117188, 22424.716796875], "text": "Scene Shang Teng Lounge Chair", "id": "index_product_header_Scene Shang Teng Lounge Chair"}
+{"tagname": "img", "offset": [1036.25, 22502.716796875], "text": "", "id": "img_product_K301667"}
+{"tagname": "a", "offset": [882.6666870117188, 22582.716796875], "text": "Show product", "id": "btn_product_K301667"}
+{"tagname": "h6", "offset": [1391.8333740234375, 22424.716796875], "text": "Scene Shang Teng Sofa 2.5 Seater", "id": "index_product_header_Scene Shang Teng Sofa 2.5 Seater"}
+{"tagname": "img", "offset": [1565.4166259765625, 22502.716796875], "text": "", "id": "img_product_K301668"}
+{"tagname": "a", "offset": [1411.8333740234375, 22582.716796875], "text": "Show product", "id": "btn_product_K301668"}
+{"tagname": "h6", "offset": [333.5, 22682.716796875], "text": "Scene Shang Teng Coffee Table", "id": "index_product_header_Scene Shang Teng Coffee Table"}
+{"tagname": "img", "offset": [507.08331298828125, 22760.716796875], "text": "", "id": "img_product_K301669"}
+{"tagname": "a", "offset": [353.5, 22840.716796875], "text": "Show product", "id": "btn_product_K301669"}
+{"tagname": "h6", "offset": [862.6666870117188, 22682.716796875], "text": "Scene Shang Teng Dining Chair", "id": "index_product_header_Scene Shang Teng Dining Chair"}
+{"tagname": "img", "offset": [1036.25, 22760.716796875], "text": "", "id": "img_product_K301670"}
+{"tagname": "a", "offset": [882.6666870117188, 22840.716796875], "text": "Show product", "id": "btn_product_K301670"}
+{"tagname": "h6", "offset": [1391.8333740234375, 22682.716796875], "text": "Scene Shang Teng Dining Table", "id": "index_product_header_Scene Shang Teng Dining Table"}
+{"tagname": "img", "offset": [1565.4166259765625, 22760.716796875], "text": "", "id": "img_product_K301671"}
+{"tagname": "a", "offset": [1411.8333740234375, 22840.716796875], "text": "Show product", "id": "btn_product_K301671"}
+{"tagname": "h6", "offset": [333.5, 22940.716796875], "text": "Scene Shang Teng Side Table", "id": "index_product_header_Scene Shang Teng Side Table"}
+{"tagname": "img", "offset": [507.08331298828125, 23018.716796875], "text": "", "id": "img_product_K301672"}
+{"tagname": "a", "offset": [353.5, 23098.716796875], "text": "Show product", "id": "btn_product_K301672"}
+{"tagname": "h6", "offset": [862.6666870117188, 22940.716796875], "text": "Scene Shang Teng Ottoman", "id": "index_product_header_Scene Shang Teng Ottoman"}
+{"tagname": "img", "offset": [1036.25, 23018.716796875], "text": "", "id": "img_product_K301673"}
+{"tagname": "a", "offset": [882.6666870117188, 23098.716796875], "text": "Show product", "id": "btn_product_K301673"}
+{"tagname": "h6", "offset": [1391.8333740234375, 22940.716796875], "text": "Scene Shang Teng Ladder", "id": "index_product_header_Scene Shang Teng Ladder"}
+{"tagname": "img", "offset": [1565.4166259765625, 23018.716796875], "text": "", "id": "img_product_K301674"}
+{"tagname": "a", "offset": [1411.8333740234375, 23098.716796875], "text": "Show product", "id": "btn_product_K301674"}
+{"tagname": "h6", "offset": [333.5, 23198.716796875], "text": "Scene Shang Weave Weatherproof Pouf With Storage - Grey", "id": "index_product_header_Scene Shang Weave Weatherproof Pouf With Storage - Grey"}
+{"tagname": "img", "offset": [507.08331298828125, 23276.716796875], "text": "", "id": "img_product_K301675"}
+{"tagname": "a", "offset": [353.5, 23356.716796875], "text": "Show product", "id": "btn_product_K301675"}
+{"tagname": "h6", "offset": [862.6666870117188, 23198.716796875], "text": "Scene Shang Weave Weatherproof Pouf With Storage", "id": "index_product_header_Scene Shang Weave Weatherproof Pouf With Storage"}
+{"tagname": "img", "offset": [1036.25, 23276.716796875], "text": "", "id": "img_product_K301675CF"}
+{"tagname": "a", "offset": [882.6666870117188, 23356.716796875], "text": "Show product", "id": "btn_product_K301675CF"}
+{"tagname": "h6", "offset": [1391.8333740234375, 23198.716796875], "text": "Scene Shang Weave Weatherproof Drum Stool With Storage - Gre", "id": "index_product_header_Scene Shang Weave Weatherproof Drum Stool With Storage - Gre"}
+{"tagname": "img", "offset": [1565.4166259765625, 23295.916015625], "text": "", "id": "img_product_K301677"}
+{"tagname": "a", "offset": [1411.8333740234375, 23375.916015625], "text": "Show product", "id": "btn_product_K301677"}
+{"tagname": "h6", "offset": [333.5, 23475.916015625], "text": "Scene Shang Weave Weatherproof Drum Stool With Storage", "id": "index_product_header_Scene Shang Weave Weatherproof Drum Stool With Storage"}
+{"tagname": "img", "offset": [507.08331298828125, 23553.916015625], "text": "", "id": "img_product_K301677CF"}
+{"tagname": "a", "offset": [353.5, 23633.916015625], "text": "Show product", "id": "btn_product_K301677CF"}
+{"tagname": "h6", "offset": [862.6666870117188, 23475.916015625], "text": "Scene Shang WEAVE Weatherproof Drum Stool with Storage - Tri", "id": "index_product_header_Scene Shang WEAVE Weatherproof Drum Stool with Storage - Tri"}
+{"tagname": "img", "offset": [1036.25, 23573.1171875], "text": "", "id": "img_product_K301678"}
+{"tagname": "a", "offset": [882.6666870117188, 23653.1171875], "text": "Show product", "id": "btn_product_K301678"}
+{"tagname": "h6", "offset": [1391.8333740234375, 23475.916015625], "text": "Scene Shang Bao Bamboo Ladder - Black", "id": "index_product_header_Scene Shang Bao Bamboo Ladder - Black"}
+{"tagname": "img", "offset": [1565.4166259765625, 23553.916015625], "text": "", "id": "img_product_K301679"}
+{"tagname": "a", "offset": [1411.8333740234375, 23633.916015625], "text": "Show product", "id": "btn_product_K301679"}
+{"tagname": "h6", "offset": [333.5, 23753.1171875], "text": "Scene Shang Hyacinth Weave Drum Stool - Small", "id": "index_product_header_Scene Shang Hyacinth Weave Drum Stool - Small"}
+{"tagname": "img", "offset": [507.08331298828125, 23831.1171875], "text": "", "id": "img_product_K301680"}
+{"tagname": "a", "offset": [353.5, 23911.1171875], "text": "Show product", "id": "btn_product_K301680"}
+{"tagname": "h6", "offset": [862.6666870117188, 23753.1171875], "text": "Scene Shang Hyacinth Weave Drum Stool - Large", "id": "index_product_header_Scene Shang Hyacinth Weave Drum Stool - Large"}
+{"tagname": "img", "offset": [1036.25, 23831.1171875], "text": "", "id": "img_product_K301681"}
+{"tagname": "a", "offset": [882.6666870117188, 23911.1171875], "text": "Show product", "id": "btn_product_K301681"}
+{"tagname": "h6", "offset": [1391.8333740234375, 23753.1171875], "text": "Scene Shang Art Deco Cane Tray With Lid Grey - Large", "id": "index_product_header_Scene Shang Art Deco Cane Tray With Lid Grey - Large"}
+{"tagname": "img", "offset": [1565.4166259765625, 23831.1171875], "text": "", "id": "img_product_K301682"}
+{"tagname": "a", "offset": [1411.8333740234375, 23911.1171875], "text": "Show product", "id": "btn_product_K301682"}
+{"tagname": "h6", "offset": [333.5, 24011.1171875], "text": "Scene Shang Art Deco Cane Tray With Lid Grey - Medium", "id": "index_product_header_Scene Shang Art Deco Cane Tray With Lid Grey - Medium"}
+{"tagname": "img", "offset": [507.08331298828125, 24089.1171875], "text": "", "id": "img_product_K301683"}
+{"tagname": "a", "offset": [353.5, 24169.1171875], "text": "Show product", "id": "btn_product_K301683"}
+{"tagname": "h6", "offset": [862.6666870117188, 24011.1171875], "text": "Scene Shang Art Deco Cane Tray With Lid Grey - Small", "id": "index_product_header_Scene Shang Art Deco Cane Tray With Lid Grey - Small"}
+{"tagname": "img", "offset": [1036.25, 24089.1171875], "text": "", "id": "img_product_K301684"}
+{"tagname": "a", "offset": [882.6666870117188, 24169.1171875], "text": "Show product", "id": "btn_product_K301684"}
+{"tagname": "h6", "offset": [1391.8333740234375, 24011.1171875], "text": "Scene Shang Art Deco Cane Tray With Lid Natural - Large", "id": "index_product_header_Scene Shang Art Deco Cane Tray With Lid Natural - Large"}
+{"tagname": "img", "offset": [1565.4166259765625, 24089.1171875], "text": "", "id": "img_product_K301685"}
+{"tagname": "a", "offset": [1411.8333740234375, 24169.1171875], "text": "Show product", "id": "btn_product_K301685"}
+{"tagname": "h6", "offset": [333.5, 24269.1171875], "text": "Scene Shang Art Deco Cane Tray With Lid Natural - Medium", "id": "index_product_header_Scene Shang Art Deco Cane Tray With Lid Natural - Medium"}
+{"tagname": "img", "offset": [507.08331298828125, 24347.1171875], "text": "", "id": "img_product_K301686"}
+{"tagname": "a", "offset": [353.5, 24427.1171875], "text": "Show product", "id": "btn_product_K301686"}
+{"tagname": "h6", "offset": [862.6666870117188, 24269.1171875], "text": "Scene Shang Art Deco Cane Tray With Lid Natural - - Small", "id": "index_product_header_Scene Shang Art Deco Cane Tray With Lid Natural - - Small"}
+{"tagname": "img", "offset": [1036.25, 24347.1171875], "text": "", "id": "img_product_K301687"}
+{"tagname": "a", "offset": [882.6666870117188, 24427.1171875], "text": "Show product", "id": "btn_product_K301687"}
+{"tagname": "h6", "offset": [1391.8333740234375, 24269.1171875], "text": "Scene Shang Weave Planter - Bamboo", "id": "index_product_header_Scene Shang Weave Planter - Bamboo"}
+{"tagname": "img", "offset": [1565.4166259765625, 24347.1171875], "text": "", "id": "img_product_K301688"}
+{"tagname": "a", "offset": [1411.8333740234375, 24427.1171875], "text": "Show product", "id": "btn_product_K301688"}
+{"tagname": "h6", "offset": [333.5, 24527.1171875], "text": "Scene Shang Weave Planter - Hexagon", "id": "index_product_header_Scene Shang Weave Planter - Hexagon"}
+{"tagname": "img", "offset": [507.08331298828125, 24605.1171875], "text": "", "id": "img_product_K301689"}
+{"tagname": "a", "offset": [353.5, 24685.1171875], "text": "Show product", "id": "btn_product_K301689"}
+{"tagname": "h6", "offset": [862.6666870117188, 24527.1171875], "text": "Scene Shang Weave Planter - Oval", "id": "index_product_header_Scene Shang Weave Planter - Oval"}
+{"tagname": "img", "offset": [1036.25, 24605.1171875], "text": "", "id": "img_product_K301690"}
+{"tagname": "a", "offset": [882.6666870117188, 24685.1171875], "text": "Show product", "id": "btn_product_K301690"}
+{"tagname": "h6", "offset": [1391.8333740234375, 24527.1171875], "text": "Scene Shang Weave Planter - Plum", "id": "index_product_header_Scene Shang Weave Planter - Plum"}
+{"tagname": "img", "offset": [1565.4166259765625, 24605.1171875], "text": "", "id": "img_product_K301691"}
+{"tagname": "a", "offset": [1411.8333740234375, 24685.1171875], "text": "Show product", "id": "btn_product_K301691"}
+{"tagname": "h6", "offset": [333.5, 24785.1171875], "text": "Scene Shang Weave Planter - Square", "id": "index_product_header_Scene Shang Weave Planter - Square"}
+{"tagname": "img", "offset": [507.08331298828125, 24863.1171875], "text": "", "id": "img_product_K301692"}
+{"tagname": "a", "offset": [353.5, 24943.1171875], "text": "Show product", "id": "btn_product_K301692"}
+{"tagname": "h6", "offset": [862.6666870117188, 24785.1171875], "text": "Scene Shang The Gentleman Cane Chair", "id": "index_product_header_Scene Shang The Gentleman Cane Chair"}
+{"tagname": "img", "offset": [1036.25, 24863.1171875], "text": "", "id": "img_product_K301693"}
+{"tagname": "a", "offset": [882.6666870117188, 24943.1171875], "text": "Show product", "id": "btn_product_K301693"}
+{"tagname": "h6", "offset": [1391.8333740234375, 24785.1171875], "text": "Scene Shang The Sidekick Cane Side Table", "id": "index_product_header_Scene Shang The Sidekick Cane Side Table"}
+{"tagname": "img", "offset": [1565.4166259765625, 24863.1171875], "text": "", "id": "img_product_K301694"}
+{"tagname": "a", "offset": [1411.8333740234375, 24943.1171875], "text": "Show product", "id": "btn_product_K301694"}
+{"tagname": "h6", "offset": [333.5, 25043.1171875], "text": "Scene Shang The Little One Cane Chair", "id": "index_product_header_Scene Shang The Little One Cane Chair"}
+{"tagname": "img", "offset": [507.08331298828125, 25121.1171875], "text": "", "id": "img_product_K301695"}
+{"tagname": "a", "offset": [353.5, 25201.1171875], "text": "Show product", "id": "btn_product_K301695"}
+{"tagname": "h6", "offset": [862.6666870117188, 25043.1171875], "text": "Scene Shang The Maverick Cane Chair - Sienna", "id": "index_product_header_Scene Shang The Maverick Cane Chair - Sienna"}
+{"tagname": "img", "offset": [1036.25, 25121.1171875], "text": "", "id": "img_product_K301696"}
+{"tagname": "a", "offset": [882.6666870117188, 25201.1171875], "text": "Show product", "id": "btn_product_K301696"}
+{"tagname": "h6", "offset": [1391.8333740234375, 25043.1171875], "text": "Scene Shang The Maverick Cane Chair - Olive", "id": "index_product_header_Scene Shang The Maverick Cane Chair - Olive"}
+{"tagname": "img", "offset": [1565.4166259765625, 25121.1171875], "text": "", "id": "img_product_K301697"}
+{"tagname": "a", "offset": [1411.8333740234375, 25201.1171875], "text": "Show product", "id": "btn_product_K301697"}
+{"tagname": "h6", "offset": [333.5, 25301.1171875], "text": "Scene Shang The Lady Cane Chair", "id": "index_product_header_Scene Shang The Lady Cane Chair"}
+{"tagname": "img", "offset": [507.08331298828125, 25379.1171875], "text": "", "id": "img_product_K301698"}
+{"tagname": "a", "offset": [353.5, 25459.1171875], "text": "Show product", "id": "btn_product_K301698"}
